@@ -8,12 +8,12 @@
 - Installed proprietary microcode for Intel Xeon.
 - Enabled AMD RX 580 Graphics support.
 4. **Terminal Customization:**
-- Changed default shell to 
-- Installed  framework.
-- Integrated  and  plugins.
+- Changed default shell to \`zsh\`
+- Installed \`Oh My Zsh\` framework.
+- Integrated \`zsh-autosuggestions\` and \`zsh-syntax-highlighting\` plugins.
 5. **CLI Interface:**
-- Installed 
-- Configured  theme.
+- Installed \`Powerlevel10k\`
+- Configured custom theme.
 
 ### Result:
 The system is fully ready for Docker, Kubernetes, and security tools. The terminal supporst auto-suggestions, icons, and Git branch status visualisation.
