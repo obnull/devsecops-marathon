@@ -17,7 +17,7 @@ for DAY in "${DAYS[@]}"; do
 if [ ! -d "$STAGE/$DAY" ]; then
 mkdir -p "$STAGE/$DAY"
 echo "📁 Создана папка: $STAGE/$DAY"
-touch "$STAGE/$DAY/.geetkeep"
+touch "$STAGE/$DAY/.gitkeep"
 else
 echo "✅ Папка уже существует: $DAY"
 fi
