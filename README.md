@@ -28,7 +28,7 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 - [x] **Day 01:** Ubuntu installation & Zsh setup. 📂 `/01-linux-basics/day-01-setup`
 - [x] **Day 02:** Mastery of `ls`, `cd`, `pwd`, `tree`. 📂 `/01-linux-basics/day-02-navigation`
 - [x] **Day 03:** File ops: `touch`, `cp`, `mv`, `rm`, `ln -s`. 📂 `/01-linux-basics/day-03-files`
-- [ ] **Day 04:** Inspection: `cat`, `less`, `grep` basics. 📂 `/01-linux-basics/day-04-inspection`
+- [x] **Day 04:** Inspection: `cat`, `less`, `grep` basics. 📂 `/01-linux-basics/day-04-inspection`
 - [ ] **Day 05:** Git core: `init`, `remote`, `.gitignore`. 📂 `/01-linux-basics/day-05-git-basics`
 - [ ] **Day 06:** [LAB] File automation script (v1.0). 📂 `/01-linux-basics/day-06-lab`
 
