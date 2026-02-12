@@ -1,0 +1,6 @@
+2024/02/04 10:15:25 [info] 1234#1234: *1 client closed connection
+2024/02/04 10:16:50 [error] 1234#1234: *2 user "admin" not found, client: 192.168.1.101
+2024/02/04 10:17:15 [warn] 1234#1234: *3 directory "/admin" is forbidden
+2024/02/04 10:18:35 [error] 1234#1234: *4 open() "/var/www/html/wp-admin" failed (2: No such file)
+2024/02/04 10:21:10 [crit] 1234#1234: *5 attempt to read /etc/passwd, client: 45.33.22.11
+2024/02/04 10:23:20 [alert] 1234#1234: *6 possible SQL injection attack, client: 45.33.22.11

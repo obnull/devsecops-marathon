@@ -1,0 +1,24 @@
+[L] Security Analysis Report - Thu Feb 12 11:52:35 PM MSK 2026
+======================================
+
+[F] Top attacking IPs:
+      2 45.33.22.11
+      1 192.168.1.101
+      1 192.168.1.100
+      1 10.0.0.5
+
+⚠️ Suspicious requests:
+45.33.22.11 - - [04/Feb/2024:10:21:04 +0000] "GET /../../etc/passwd HTTP/1.1" 400 189 "-" "nmap script"
+45.33.22.11 - - [04/Feb/2024:10:23:17 +0000] "GET /sql.php?id=1%20AND%201=1 HTTP/1.1" 500 789 "-" "sqlmap/1.6"
+
+❌ Application errors:
+2024/02/04 10:16:50 [error] 1234#1234: *2 user "admin" not found, client: 192.168.1.101
+2024/02/04 10:18:35 [error] 1234#1234: *4 open() "/var/www/html/wp-admin" failed (2: No such file)
+2024/02/04 10:21:10 [crit] 1234#1234: *5 attempt to read /etc/passwd, client: 45.33.22.11
+2024/02/04 10:23:20 [alert] 1234#1234: *6 possible SQL injection attack, client: 45.33.22.11
+
+🔑 Brute force attempts:
+Feb 4 10:16:50 admin
+Feb 4 10:25:12 45.33.22.11
+Feb 4 10:25:15 45.33.22.11
+Feb 4 10:25:18 45.33.22.11

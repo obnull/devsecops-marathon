@@ -1,0 +1,7 @@
+Feb  4 10:16:50 server sshd[2345]: Failed password for invalid user admin from 192.168.1.101 port 54321 ssh2
+Feb  4 10:19:56 server sshd[2356]: Accepted password for developer from 192.168.1.102 port 54432 ssh2
+Feb  4 10:25:12 server sshd[2367]: Failed password for root from 45.33.22.11 port 60123 ssh2
+Feb  4 10:25:15 server sshd[2367]: Failed password for root from 45.33.22.11 port 60124 ssh2
+Feb  4 10:25:18 server sshd[2367]: Failed password for root from 45.33.22.11 port 60125 ssh2
+Feb  4 10:25:22 server sshd[2367]: Connection closed by authenticating user root 45.33.22.11 port 60125
+Feb  4 10:26:30 server sudo: developer : TTY=pts/0 ; PWD=/home/developer ; USER=root ; COMMAND=/bin/cat /var/log/nginx/access.log
