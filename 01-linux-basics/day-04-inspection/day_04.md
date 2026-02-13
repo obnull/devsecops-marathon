@@ -1,4 +1,4 @@
-## Stage 01: Linux & Git Basics
+# Stage 01: Linux & Git Basics
 ## Day 04: File Inspection & Grep Basics
 
 1. **Commands Mastered:**
