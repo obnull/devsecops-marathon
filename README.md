@@ -30,7 +30,15 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 - [x] **Day 03:** File ops: `touch`, `cp`, `mv`, `rm`, `ln -s`. 📂 `/01-linux-basics/day-03-files`
 - [x] **Day 04:** Inspection: `cat`, `less`, `grep` basics. 📂 `/01-linux-basics/day-04-inspection`
 - [x] **Day 05:** Git core: `init`, `remote`, `.gitignore`. 📂 `/01-linux-basics/day-05-git-basics`
-- [ ] **Day 06:** [LAB] File automation script (v1.0). 📂 `/01-linux-basics/day-06-lab`
+- [x] **Day 06:** [LAB] File automation script (v1.0). 📂 `/01-linux-basics/day-06-lab`
+
+### Week 2: Permissions & Identification (Security Focus)
+- [ ] **Day 08:** User Management. 📂` /01-linux-basics/day-08-users-deep`
+- [ ] **Day 09:** File Permissions (Deep Dive). 📂 `/01-linux-basics/day-09-permissions-deep`
+- [ ] **Day 10:** Sudoers & Privilege Escalation. 📂 `/01-linux-basics/day-10-sudo-deep`
+- [ ] **Day 11:** Special Permissions (SUID,SGID,STICKY BIT). 📂 `/01-linux-basics/day-11-special-perms`
+- [ ] **Day 12:** SSH Hardening. 📂 `/01-linux-basics/day-12-ssh-hardening`
+- [ ] **Day 13:** [LAB] RBAC Simulation. 📂 `/01-linux-basics/day-13-lab-rbac`
 
 ---
 
