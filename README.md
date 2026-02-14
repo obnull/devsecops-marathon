@@ -31,6 +31,7 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 - [x] **Day 04:** Inspection: `cat`, `less`, `grep` basics. 📂 `/01-linux-basics/day-04-inspection`
 - [x] **Day 05:** Git core: `init`, `remote`, `.gitignore`. 📂 `/01-linux-basics/day-05-git-basics`
 - [x] **Day 06:** [LAB] File automation script (v1.0). 📂 `/01-linux-basics/day-06-lab`
+- [x] **Day 07:** [LAB] Users & permissions. 📂 `/01-linux-basics/day-07-users`
 
 ### Week 2: Permissions & Identification (Security Focus)
 - [ ] **Day 08:** User Management. 📂` /01-linux-basics/day-08-users-deep`
