@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DAYS=(
-"day-01-setup"
-"day-02-navigation"
-"day-03-files"
-"day-04-inspection"
-"day-05-git-basics"
-"day-06-lab"
+"day-08-users-deep"
+"day-09-permissions-deep"
+"day-10-sudo-deep"
+"day-11-special-perms"
+"day-12-ssh-hardening"
+"day-13-lab-rbac"
 )
 
 STAGE="01-linux-basics"
