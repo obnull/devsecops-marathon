@@ -15,4 +15,4 @@ Deep dive into Linux user management. Created and modified users, managed groups
 - Cleaned up all test users and groups
 
 ### Result
-Successfully practiced full user lifecycle: create -> modify -> inspect -> delete
+Successfully practiced full user lifecycle: create -> modify -> inspect -> delete.
