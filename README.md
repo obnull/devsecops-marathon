@@ -35,7 +35,7 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 
 ### Week 2: Permissions & Identification (Security Focus)
 - [x] **Day 08:** User Management. 📂` /01-linux-basics/day-08-users-deep`
-- [ ] **Day 09:** File Permissions (Deep Dive). 📂 `/01-linux-basics/day-09-permissions-deep`
+- [x] **Day 09:** File Permissions (Deep Dive). 📂 `/01-linux-basics/day-09-permissions-deep`
 - [ ] **Day 10:** Sudoers & Privilege Escalation. 📂 `/01-linux-basics/day-10-sudo-deep`
 - [ ] **Day 11:** Special Permissions (SUID,SGID,STICKY BIT). 📂 `/01-linux-basics/day-11-special-perms`
 - [ ] **Day 12:** SSH Hardening. 📂 `/01-linux-basics/day-12-ssh-hardening`
