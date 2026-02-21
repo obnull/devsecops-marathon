@@ -39,7 +39,7 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 - [x] **Day 10:** Sudoers & Privilege Escalation. 📂 `/01-linux-basics/day-10-sudo-deep`
 - [x] **Day 11:** Special Permissions (SUID,SGID,STICKY BIT). 📂 `/01-linux-basics/day-11-special-perms`
 - [x] **Day 12:** SSH Hardening. 📂 `/01-linux-basics/day-12-ssh-hardening`
-- [ ] **Day 13:** [LAB] RBAC Simulation. 📂 `/01-linux-basics/day-13-lab-rbac`
+- [x] **Day 13:** [LAB] RBAC Simulation. 📂 `/01-linux-basics/day-13-lab-rbac`
 
 ---
 
