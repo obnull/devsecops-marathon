@@ -1,12 +1,13 @@
 #!/bin/bash
 
 DAYS=(
-"day-08-users-deep"
-"day-09-permissions-deep"
-"day-10-sudo-deep"
-"day-11-special-perms"
-"day-12-ssh-hardening"
-"day-13-lab-rbac"
+"day-14-docker-install"
+"day-15-dockerfile"
+"day-16-docker-compose"
+"day-17-docker-security"
+"day-18-trivy-scan"
+"day-19-docker-monutoring"
+"day-20-lab-final"
 )
 
 STAGE="01-linux-basics"
