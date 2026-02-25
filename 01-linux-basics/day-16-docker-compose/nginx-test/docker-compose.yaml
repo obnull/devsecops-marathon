@@ -1,0 +1,9 @@
+services:
+  web:
+    image: nginx:alpine
+    ports:
+      - "8888:80"
+
+
+  db:
+    image: redis:8.2.5

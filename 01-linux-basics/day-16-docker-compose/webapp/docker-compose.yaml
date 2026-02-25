@@ -1,0 +1,19 @@
+services:
+  web:
+    image: nginx:alpine
+    ports: 
+      - "8080:80"
+    volumes:
+      - ./html:/usr/share/nginx/html
+
+  db:
+    image: postgres:13-alpine
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DB: myapp
+    volumes: 
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
