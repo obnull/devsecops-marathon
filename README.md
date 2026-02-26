@@ -45,7 +45,7 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 - [x] **Day 14:** Docker Installation & first container. 📂 `/01-linux-basics/day-14-docker-install`
 - [x] **Day 15:** Dockerfile basics & image buildeng. 📂 `/01-linux-basics/day-15-dockerfile`
 - [x] **Day 16:** Docker Compose. 📂 `/01-linux-basics/day-16-docker-compose`
-- [ ] **Day 17:** Docker security (non-root, rootless) 📂 `/01-linux-basics/day-17-docker-security`
+- [x] **Day 17:** Docker security (non-root, rootless) 📂 `/01-linux-basics/day-17-docker-security`
 - [ ] **Day 18:** Image Scanning (Trivy, vulnerabilities) 📂 `/01-linux-basics/day-18-trivy-scan`
 - [ ] **Day 19:** Docker monitoring & resourse limits. 📂 `/01-linux-basics/day-19-docker-monitoring`
 - [ ] **Day 20:** [LAB] Build & scan your own image. 📂 `/01-linux-basics/day-20-lab-final`
