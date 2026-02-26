@@ -3,7 +3,6 @@ LABEL author="danny"
 WORKDIR /app
 COPY index.html app.py ./
 
-# Создаём группу и пользователя (Debian style)
 RUN addgroup --gid 1009 testgroup && \
     adduser --uid 1009 --disabled-password --no-create-home --ingroup testgroup testuser
 
