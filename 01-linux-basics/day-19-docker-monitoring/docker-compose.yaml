@@ -1,0 +1,10 @@
+services:
+  web:
+    image: nginx:alpine
+    ports:
+      - "8080:80"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 256M
