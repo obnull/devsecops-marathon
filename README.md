@@ -41,7 +41,7 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 - [x] **Day 12:** SSH Hardening. 📂 `/01-linux-basics/day-12-ssh-hardening`
 - [x] **Day 13:** [LAB] RBAC Simulation. 📂 `/01-linux-basics/day-13-lab-rbac`
 
-### Week 3: Docker & Container Sucurity
+### Week 3: Docker & Container Sucurity (Early exposure)
 - [x] **Day 14:** Docker Installation & first container. 📂 `/01-linux-basics/day-14-docker-install`
 - [x] **Day 15:** Dockerfile basics & image buildeng. 📂 `/01-linux-basics/day-15-dockerfile`
 - [x] **Day 16:** Docker Compose. 📂 `/01-linux-basics/day-16-docker-compose`
@@ -49,6 +49,14 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 - [x] **Day 18:** Image Scanning (Trivy, vulnerabilities) 📂 `/01-linux-basics/day-18-trivy-scan`
 - [x] **Day 19:** Docker monitoring & resourse limits. 📂 `/01-linux-basics/day-19-docker-monitoring`
 - [x] **Day 20:** [LAB] Build & scan your own image. 📂 `/01-linux-basics/day-20-lab-final`
+
+### Week 4: Linux Core Deepening (System Thinking & Security Lens)
+- [ ] **Day 21:** APT Trust model + Package Integrity. 📂 `/01-linux-basics/day-21-apt-trust-model
+- [ ] **Day 22:** Process Lifecycle & Signal Management. 📂 `/01-linux-basics/day-22-process-lifecycle
+- [ ] **Day 23:** systemd Architecture & Service Hardening. 📂 `/01-linux-basics/day-23-systemd-deep-dive
+- [ ] **Day 24:** Logging & System Observability. 📂 `/01-linux-basics/day-24-logging-observability
+- [ ] **Day 25:** Network Exposure & Attack Surface Analysis. 📂 `/01-linux-basics/day-25-network-basics-security
+- [ ] **Day 26:** [LAB] Secure Service Deployment. 📂 `/01-linux-basics/day-26-secure-service-lab
 
 ---
 
