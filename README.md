@@ -51,7 +51,7 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 - [x] **Day 20:** [LAB] Build & scan your own image. 📂 `/01-linux-basics/day-20-lab-final`
 
 ### Week 4: Linux Core Deepening (System Thinking & Security Lens)
-- [ ] **Day 21:** APT Trust model + Package Integrity. 📂 `/01-linux-basics/day-21-apt-trust-model
+- [x] **Day 21:** APT Trust model + Package Integrity. 📂 `/01-linux-basics/day-21-apt-trust-model
 - [ ] **Day 22:** Process Lifecycle & Signal Management. 📂 `/01-linux-basics/day-22-process-lifecycle
 - [ ] **Day 23:** systemd Architecture & Service Hardening. 📂 `/01-linux-basics/day-23-systemd-deep-dive
 - [ ] **Day 24:** Logging & System Observability. 📂 `/01-linux-basics/day-24-logging-observability
