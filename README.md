@@ -52,7 +52,7 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 
 ### Week 4: Linux Core Deepening (System Thinking & Security Lens)
 - [x] **Day 21:** APT Trust model + Package Integrity. 📂 `/01-linux-basics/day-21-apt-trust-model
-- [ ] **Day 22:** Process Lifecycle & Signal Management. 📂 `/01-linux-basics/day-22-process-lifecycle
+- [x] **Day 22:** Process Lifecycle & Signal Management. 📂 `/01-linux-basics/day-22-process-lifecycle
 - [ ] **Day 23:** systemd Architecture & Service Hardening. 📂 `/01-linux-basics/day-23-systemd-deep-dive
 - [ ] **Day 24:** Logging & System Observability. 📂 `/01-linux-basics/day-24-logging-observability
 - [ ] **Day 25:** Network Exposure & Attack Surface Analysis. 📂 `/01-linux-basics/day-25-network-basics-security
