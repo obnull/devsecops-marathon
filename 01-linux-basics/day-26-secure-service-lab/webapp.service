@@ -1,0 +1,19 @@
+[Unit]
+Description=Secure Web App
+After=network.target
+
+[Service]
+User=webapp
+Group=webapp
+WorkingDirectory=/opt/webapp/bin
+ExecStart=/usr/bin/python3 /opt/webapp/bin/app.py
+Restart=on-failure
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ReadWritePaths=/var/log/webapp
+PrivateDevices=yes
+ProtectHome=yes
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,13 @@
+/var/log/webapp/*.log {
+    daily
+    missingok
+    rotate 7
+    compress
+    delaycompress
+    notifempty
+    create 640 webapp webapp
+    sharedscripts
+    postrotate
+        systemctl reload webapp > /dev/null 2>&1 || true
+    endscript
+}
