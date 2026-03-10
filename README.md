@@ -60,7 +60,7 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 
 ### Week 5: Git Workflow & Repository Management
 - [x] **Day 27:** — Git Branching Fundamentals. 📂 `/01-linux-basics/day-27-git-branching'
-- [ ] **Day 28:** — Merge Strategies. 📂 '/01-linux-basics/day-28-git-merge-strategies'
+- [x] **Day 28:** — Merge Strategies. 📂 '/01-linux-basics/day-28-git-merge-strategies'
 - [ ] **Day 29:** — Conflict Resolution. 📂 '/01-linux-basics/day-29-git-conflict-resolution'
 - [ ] **Day 30:** — Rebase Workflow. 📂 '/01-linux-basics/day-30-git-rebase-workflow'
 - [ ] **Day 31:** — History Recovery. 📂 '/01-linux-basics/day-31-git-history-recovery'
