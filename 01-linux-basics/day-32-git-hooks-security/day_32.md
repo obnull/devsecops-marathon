@@ -34,6 +34,12 @@ Git hooks allow automated checks before repository actions. The `pre-commit` hoo
 
 Minor shell syntax errors were fixed during imolementation of the hook.
 
+## Verification
+
+Test 1: Attempted to commit `.env` file -> commit blocked.
+Test 2: Attempted to commit file containing `token=12345` -> commit blocked.
+![Pre-commit hook blocking secret](~Pictures/Screenshots/error-commits.png)
+
 ## Key Concept
 
 Git hooks enable early security checks (shift-left security) by scanning code before it enters the repository.
