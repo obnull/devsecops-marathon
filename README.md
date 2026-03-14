@@ -64,7 +64,7 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 - [x] **Day 29:** — Conflict Resolution. 📂 '/01-linux-basics/day-29-git-conflict-resolution'
 - [x] **Day 30:** — Rebase Workflow. 📂 '/01-linux-basics/day-30-git-rebase-workflow'
 - [x] **Day 31:** — History Recovery. 📂 '/01-linux-basics/day-31-git-history-recovery'
-- [ ] **Day 32:** — Git Hooks & Security. 📂 '/01-linux-basics/day-32-git-hooks-security'
+- [x] **Day 32:** — Git Hooks & Security. 📂 '/01-linux-basics/day-32-git-hooks-security'
 - [ ] **Day 33:** — [LAB] Team Workflow Simulation. 📂 '/01-linux-basics day-33-lab-git-team-workflow'
 
 ---
