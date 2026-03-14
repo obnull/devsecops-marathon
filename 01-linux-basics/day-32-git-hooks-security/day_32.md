@@ -38,7 +38,7 @@ Minor shell syntax errors were fixed during imolementation of the hook.
 
 Test 1: Attempted to commit `.env` file -> commit blocked.
 Test 2: Attempted to commit file containing `token=12345` -> commit blocked.
-![Pre-commit hook blocking secret](~Pictures/Screenshots/error-commits.png)
+![Pre-commit hook blocking secret](./error-commits.png)
 
 ## Key Concept
 
