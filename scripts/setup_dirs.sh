@@ -1,16 +1,15 @@
 #!/bin/bash
 
 DAYS=(
-"day-27-git-branching"
-"day-28-git-merge-strategies"
-"day-29-git-conflict-resolution"
-"day-30-git-rebase-workflow"
-"day-31-git-history-recovery"
-"day-32-git-hooks-security"
-"day-33-lab-git-team-workflow"
+"day-34-osi-tcpip"
+"day-35-ip-routing"
+"day-36-connectivity"
+"day-37-ports-sockets"
+"day-38-dns-basics"
+"day-39-lab-network-audit"
 )
 
-STAGE="01-linux-basics"
+STAGE="02-networking"
 
 mkdir -p $STAGE
 
