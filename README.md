@@ -32,88 +32,88 @@ Focus of this month:
 
 ## 📅 Week 1: Network Models & Diagnostics
 
-- [x] **Day 34:** OSI vs TCP/IP models  
+- [x] **Day 34:** OSI vs TCP/IP models
   📂 `/02-networking/day-34-osi-tcpip`
 
-- [ ] **Day 35:** IP addressing & routing (`ip addr`, `ip route`)  
+- [x] **Day 35:** IP addressing & routing (`ip addr`, `ip route`)
   📂 `/02-networking/day-35-ip-routing`
 
-- [ ] **Day 36:** Connectivity diagnostics (`ping`, `traceroute`)  
+- [ ] **Day 36:** Connectivity diagnostics (`ping`, `traceroute`)
   📂 `/02-networking/day-36-connectivity`
 
-- [ ] **Day 37:** Ports & sockets (`ss`, `netstat`, `lsof`)  
+- [ ] **Day 37:** Ports & sockets (`ss`, `netstat`, `lsof`)
   📂 `/02-networking/day-37-ports-sockets`
 
-- [ ] **Day 38:** DNS basics (`dig`, `nslookup`)  
+- [ ] **Day 38:** DNS basics (`dig`, `nslookup`)
   📂 `/02-networking/day-38-dns-basics`
 
-- [ ] **Day 39:** **[LAB] Host Network Audit**  
+- [ ] **Day 39:** **[LAB] Host Network Audit**
   📂 `/02-networking/day-39-lab-network-audit`
 
 ---
 
 ## 🔐 Week 2: SSH & Secure Remote Access
 
-- [ ] **Day 41:** SSH architecture & configuration  
+- [ ] **Day 41:** SSH architecture & configuration
   📂 `/02-networking/day-41-ssh-architecture`
 
-- [ ] **Day 42:** SSH key authentication  
+- [ ] **Day 42:** SSH key authentication
   📂 `/02-networking/day-42-ssh-keys`
 
-- [ ] **Day 43:** SSH hardening (`PasswordAuthentication`, `PermitRootLogin`)  
+- [ ] **Day 43:** SSH hardening (`PasswordAuthentication`, `PermitRootLogin`)
   📂 `/02-networking/day-43-ssh-hardening`
 
-- [ ] **Day 44:** Access control (`AllowUsers`, `AllowGroups`)  
+- [ ] **Day 44:** Access control (`AllowUsers`, `AllowGroups`)
   📂 `/02-networking/day-44-ssh-access-control`
 
-- [ ] **Day 45:** SSH troubleshooting & logs  
+- [ ] **Day 45:** SSH troubleshooting & logs
   📂 `/02-networking/day-45-ssh-troubleshooting`
 
-- [ ] **Day 46:** **[LAB] Secure SSH Configuration**  
+- [ ] **Day 46:** **[LAB] Secure SSH Configuration**
   📂 `/02-networking/day-46-lab-secure-ssh`
 
 ---
 
 ## 🔥 Week 3: Firewall & Attack Surface Reduction
 
-- [ ] **Day 48:** Firewall concepts & security policies  
+- [ ] **Day 48:** Firewall concepts & security policies
   📂 `/02-networking/day-48-firewall-basics`
 
-- [ ] **Day 49:** UFW configuration (`allow SSH/HTTP/HTTPS`)  
+- [ ] **Day 49:** UFW configuration (`allow SSH/HTTP/HTTPS`)
   📂 `/02-networking/day-49-ufw-allow-rules`
 
-- [ ] **Day 50:** Restricting ports & network exposure  
+- [ ] **Day 50:** Restricting ports & network exposure
   📂 `/02-networking/day-50-ufw-deny-rules`
 
-- [ ] **Day 51:** Firewall verification & logs  
+- [ ] **Day 51:** Firewall verification & logs
   📂 `/02-networking/day-51-firewall-verification`
 
-- [ ] **Day 52:** Attack surface analysis  
+- [ ] **Day 52:** Attack surface analysis
   📂 `/02-networking/day-52-attack-surface`
 
-- [ ] **Day 53:** **[LAB] Secure Firewall Policy**  
+- [ ] **Day 53:** **[LAB] Secure Firewall Policy**
   📂 `/02-networking/day-53-lab-firewall-policy`
 
 ---
 
 ## 🌍 Week 4: DNS & HTTP(S) Analysis
 
-- [ ] **Day 55:** DNS record types (A, AAAA, CNAME, MX)  
+- [ ] **Day 55:** DNS record types (A, AAAA, CNAME, MX)
   📂 `/02-networking/day-55-dns-records`
 
-- [ ] **Day 56:** HTTP methods & headers (`curl`)  
+- [ ] **Day 56:** HTTP methods & headers (`curl`)
   📂 `/02-networking/day-56-http-basics`
 
-- [ ] **Day 57:** HTTPS & TLS fundamentals  
+- [ ] **Day 57:** HTTPS & TLS fundamentals
   📂 `/02-networking/day-57-https-tls`
 
-- [ ] **Day 58:** HTTP diagnostics & status codes  
+- [ ] **Day 58:** HTTP diagnostics & status codes
   📂 `/02-networking/day-58-http-diagnostics`
 
-- [ ] **Day 59:** DNS → HTTP → Firewall request flow  
+- [ ] **Day 59:** DNS → HTTP → Firewall request flow
   📂 `/02-networking/day-59-service-path-analysis`
 
-- [ ] **Day 60:** **[FINAL LAB] Network Exposure Audit**  
+- [ ] **Day 60:** **[FINAL LAB] Network Exposure Audit**
   📂 `/02-networking/day-60-final-lab-network-hardening`
 
 ---
