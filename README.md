@@ -38,7 +38,7 @@ Focus of this month:
 - [x] **Day 35:** IP addressing & routing (`ip addr`, `ip route`)
   📂 `/02-networking/day-35-ip-routing`
 
-- [ ] **Day 36:** Connectivity diagnostics (`ping`, `traceroute`)
+- [x] **Day 36:** Connectivity diagnostics (`ping`, `traceroute`)
   📂 `/02-networking/day-36-connectivity`
 
 - [ ] **Day 37:** Ports & sockets (`ss`, `netstat`, `lsof`)
