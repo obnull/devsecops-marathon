@@ -41,7 +41,7 @@ Focus of this month:
 - [x] **Day 36:** Connectivity diagnostics (`ping`, `traceroute`)
   📂 `/02-networking/day-36-connectivity`
 
-- [ ] **Day 37:** Ports & sockets (`ss`, `netstat`, `lsof`)
+- [x] **Day 37:** Ports & sockets (`ss`, `netstat`, `lsof`)
   📂 `/02-networking/day-37-ports-sockets`
 
 - [ ] **Day 38:** DNS basics (`dig`, `nslookup`)
