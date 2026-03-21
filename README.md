@@ -44,7 +44,7 @@ Focus of this month:
 - [x] **Day 37:** Ports & sockets (`ss`, `netstat`, `lsof`)
   📂 `/02-networking/day-37-ports-sockets`
 
-- [ ] **Day 38:** DNS basics (`dig`, `nslookup`)
+- [x] **Day 38:** DNS basics (`dig`, `nslookup`)
   📂 `/02-networking/day-38-dns-basics`
 
 - [ ] **Day 39:** **[LAB] Host Network Audit**
