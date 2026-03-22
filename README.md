@@ -47,7 +47,7 @@ Focus of this month:
 - [x] **Day 38:** DNS basics (`dig`, `nslookup`)
   📂 `/02-networking/day-38-dns-basics`
 
-- [ ] **Day 39:** **[LAB] Host Network Audit**
+- [x] **Day 39:** **[LAB] Host Network Audit**
   📂 `/02-networking/day-39-lab-network-audit`
 
 ---
