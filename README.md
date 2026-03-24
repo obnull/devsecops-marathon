@@ -54,7 +54,7 @@ Focus of this month:
 
 ## 🔐 Week 2: SSH & Secure Remote Access
 
-- [ ] **Day 41:** SSH architecture & configuration
+- [x] **Day 41:** SSH architecture & configuration
   📂 `/02-networking/day-41-ssh-architecture`
 
 - [ ] **Day 42:** SSH key authentication
