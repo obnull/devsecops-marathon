@@ -57,7 +57,7 @@ Focus of this month:
 - [x] **Day 41:** SSH architecture & configuration
   📂 `/02-networking/day-41-ssh-architecture`
 
-- [ ] **Day 42:** SSH key authentication
+- [x] **Day 42:** SSH key authentication
   📂 `/02-networking/day-42-ssh-keys`
 
 - [ ] **Day 43:** SSH hardening (`PasswordAuthentication`, `PermitRootLogin`)
