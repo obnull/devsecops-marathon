@@ -60,7 +60,7 @@ Focus of this month:
 - [x] **Day 42:** SSH key authentication
   📂 `/02-networking/day-42-ssh-keys`
 
-- [ ] **Day 43:** SSH hardening (`PasswordAuthentication`, `PermitRootLogin`)
+- [x] **Day 43:** SSH hardening (`PasswordAuthentication`, `PermitRootLogin`)
   📂 `/02-networking/day-43-ssh-hardening`
 
 - [ ] **Day 44:** Access control (`AllowUsers`, `AllowGroups`)
