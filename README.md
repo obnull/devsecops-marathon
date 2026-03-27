@@ -63,7 +63,7 @@ Focus of this month:
 - [x] **Day 43:** SSH hardening (`PasswordAuthentication`, `PermitRootLogin`)
   📂 `/02-networking/day-43-ssh-hardening`
 
-- [ ] **Day 44:** Access control (`AllowUsers`, `AllowGroups`)
+- [x] **Day 44:** Access control (`AllowUsers`, `AllowGroups`)
   📂 `/02-networking/day-44-ssh-access-control`
 
 - [ ] **Day 45:** SSH troubleshooting & logs
