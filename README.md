@@ -66,7 +66,7 @@ Focus of this month:
 - [x] **Day 44:** Access control (`AllowUsers`, `AllowGroups`)
   📂 `/02-networking/day-44-ssh-access-control`
 
-- [ ] **Day 45:** SSH troubleshooting & logs
+- [x] **Day 45:** SSH troubleshooting & logs
   📂 `/02-networking/day-45-ssh-troubleshooting`
 
 - [ ] **Day 46:** **[LAB] Secure SSH Configuration**
