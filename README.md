@@ -69,7 +69,7 @@ Focus of this month:
 - [x] **Day 45:** SSH troubleshooting & logs
   📂 `/02-networking/day-45-ssh-troubleshooting`
 
-- [ ] **Day 46:** **[LAB] Secure SSH Configuration**
+- [x] **Day 46:** **[LAB] Secure SSH Configuration**
   📂 `/02-networking/day-46-lab-secure-ssh`
 
 ---
