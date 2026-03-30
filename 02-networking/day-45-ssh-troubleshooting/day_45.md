@@ -1,4 +1,5 @@
-# Day 45 — SSH Troubleshooting & Logs
+# Stage 01: Linux & Networking Fundamentals
+## Day 45 — SSH Troubleshooting & Logs
 
 ## Objective
 
