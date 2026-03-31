@@ -76,10 +76,10 @@ Focus of this month:
 
 ## 🔥 Week 3: Firewall & Attack Surface Reduction
 
-- [ ] **Day 48:** Firewall concepts & security policies
+- [x] **Day 48:** Firewall concepts & security policies
   📂 `/02-networking/day-48-firewall-basics`
 
-- [ ] **Day 49:** UFW configuration (`allow SSH/HTTP/HTTPS`)
+- [x] **Day 49:** UFW configuration (`allow SSH/HTTP/HTTPS`)
   📂 `/02-networking/day-49-ufw-allow-rules`
 
 - [ ] **Day 50:** Restricting ports & network exposure
