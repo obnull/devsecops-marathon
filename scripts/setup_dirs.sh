@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DAYS=(
-"day-41-ssh-architecture"
-"day-42-ssh-keys"
-"day-43-ssh-hardening"
-"day-44-ssh-access-control"
-"day-45-ssh-troubleshooting"
-"day-46-lab-secure-ssh"
+"day-48-firewall-basics"
+"day-49-ufw-allow-rules"
+"day-50-ufw-deny-rules"
+"day-51-firewall-verification"
+"day-52-attack-surface"
+"day-53-lab-firewall-policy"
 )
 
 STAGE="02-networking"
