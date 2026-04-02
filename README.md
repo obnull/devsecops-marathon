@@ -82,7 +82,7 @@ Focus of this month:
 - [x] **Day 49:** UFW configuration (`allow SSH/HTTP/HTTPS`)
   📂 `/02-networking/day-49-ufw-allow-rules`
 
-- [ ] **Day 50:** Restricting ports & network exposure
+- [x] **Day 50:** Restricting ports & network exposure
   📂 `/02-networking/day-50-ufw-deny-rules`
 
 - [ ] **Day 51:** Firewall verification & logs
