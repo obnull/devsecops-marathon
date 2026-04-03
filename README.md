@@ -85,10 +85,10 @@ Focus of this month:
 - [x] **Day 50:** Restricting ports & network exposure
   📂 `/02-networking/day-50-ufw-deny-rules`
 
-- [ ] **Day 51:** Firewall verification & logs
+- [x] **Day 51:** Firewall verification & logs
   📂 `/02-networking/day-51-firewall-verification`
 
-- [ ] **Day 52:** Attack surface analysis
+- [x] **Day 52:** Attack surface analysis
   📂 `/02-networking/day-52-attack-surface`
 
 - [ ] **Day 53:** **[LAB] Secure Firewall Policy**
