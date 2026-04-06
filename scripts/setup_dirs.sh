@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DAYS=(
-"day-48-firewall-basics"
-"day-49-ufw-allow-rules"
-"day-50-ufw-deny-rules"
-"day-51-firewall-verification"
-"day-52-attack-surface"
-"day-53-lab-firewall-policy"
+"day-55-dns-records"
+"day-56-http-basics"
+"day-57-https-tls"
+"day-58-http-diagnostics"
+"day-59-service-path-analysis"
+"day-60-final-lab-network-hardening"
 )
 
 STAGE="02-networking"
