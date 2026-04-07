@@ -98,10 +98,10 @@ Focus of this month:
 
 ## 🌍 Week 4: DNS & HTTP(S) Analysis
 
-- [ ] **Day 55:** DNS record types (A, AAAA, CNAME, MX)
+- [x] **Day 55:** DNS record types (A, AAAA, CNAME, MX)
   📂 `/02-networking/day-55-dns-records`
 
-- [ ] **Day 56:** HTTP methods & headers (`curl`)
+- [x] **Day 56:** HTTP methods & headers (`curl`)
   📂 `/02-networking/day-56-http-basics`
 
 - [ ] **Day 57:** HTTPS & TLS fundamentals
