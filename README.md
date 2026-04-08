@@ -104,7 +104,7 @@ Focus of this month:
 - [x] **Day 56:** HTTP methods & headers (`curl`)
   📂 `/02-networking/day-56-http-basics`
 
-- [ ] **Day 57:** HTTPS & TLS fundamentals
+- [x] **Day 57:** HTTPS & TLS fundamentals
   📂 `/02-networking/day-57-https-tls`
 
 - [ ] **Day 58:** HTTP diagnostics & status codes
