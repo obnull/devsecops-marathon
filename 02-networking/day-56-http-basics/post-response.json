@@ -1,0 +1,20 @@
+{
+  "args": {}, 
+  "data": "{\"name\":\"DevSecOps\",\"level\":\"Middle\"}", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "37", 
+    "Content-Type": "application/json", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/8.5.0", 
+    "X-Amzn-Trace-Id": "Root=1-69d7fe2f-7adf458e129f22594908d601"
+  }, 
+  "json": {
+    "level": "Middle", 
+    "name": "DevSecOps"
+  }, 
+  "origin": "46.138.27.245", 
+  "url": "http://httpbin.org/post"
+}
