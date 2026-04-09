@@ -107,7 +107,7 @@ Focus of this month:
 - [x] **Day 57:** HTTPS & TLS fundamentals
   📂 `/02-networking/day-57-https-tls`
 
-- [ ] **Day 58:** HTTP diagnostics & status codes
+- [x] **Day 58:** HTTP diagnostics & status codes
   📂 `/02-networking/day-58-http-diagnostics`
 
 - [ ] **Day 59:** DNS → HTTP → Firewall request flow
