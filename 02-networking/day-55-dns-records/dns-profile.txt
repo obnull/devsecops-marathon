@@ -1,0 +1,21 @@
+=== NETFLIX.COM DNS PROFILE ===
+A:
+52.214.181.141
+54.246.79.9
+54.170.196.176
+AAAA:
+2a05:d018:76c:b683:e1fe:9fbf:c403:57f1
+2a05:d018:76c:b684:b233:ac1f:be1f:7
+2a05:d018:76c:b685:c898:aa3a:42c7:9d21
+CNAME:
+MX:
+10 aspmx3.googlemail.com.
+5 alt1.aspmx.l.google.com.
+5 alt2.aspmx.l.google.com.
+10 aspmx2.googlemail.com.
+1 aspmx.l.google.com.
+NS:
+ns-1372.awsdns-43.org.
+ns-1984.awsdns-56.co.uk.
+ns-81.awsdns-10.com.
+ns-659.awsdns-18.net.
