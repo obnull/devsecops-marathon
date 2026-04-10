@@ -1,4 +1,5 @@
-# Day 56 — HTTP Methods and Headers
+#  Stage 01: Linux & Networking Fundamentals
+## Day 56: HTTP Methods and Headers
 
 ## Objective
 
