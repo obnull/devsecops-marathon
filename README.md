@@ -110,10 +110,10 @@ Focus of this month:
 - [x] **Day 58:** HTTP diagnostics & status codes
   📂 `/02-networking/day-58-http-diagnostics`
 
-- [ ] **Day 59:** DNS → HTTP → Firewall request flow
+- [x] **Day 59:** DNS → HTTP → Firewall request flow
   📂 `/02-networking/day-59-service-path-analysis`
 
-- [ ] **Day 60:** **[FINAL LAB] Network Exposure Audit**
+- [x] **Day 60:** **[FINAL LAB] Network Exposure Audit**
   📂 `/02-networking/day-60-final-lab-network-hardening`
 
 ---
