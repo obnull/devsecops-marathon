@@ -24,12 +24,12 @@ Explored HTTP status codes (2xx, 3xx, 4xx, 5xx) and their meaning for DevOps. Pr
 
 ## Commands Used
 
-curl -s -o /dev/null -w "%{http_code}\n" https://google.com
-curl -L -I http://github.com
-curl -w "@curl-format.txt" -o /dev/null -s https://google.com
-curl -I https://httpbin.org/status/404
-curl -I https://httpbin.org/status/502
-curl -I https://google.com | grep -i "cache-control"
+`curl -s -o /dev/null -w "%{http_code}\n" https://google.com`
+`curl -L -I http://github.com`
+`curl -w "@curl-format.txt" -o /dev/null -s https://google.com`
+`curl -I https://httpbin.org/status/404`
+`curl -I https://httpbin.org/status/502`
+`curl -I https://google.com | grep -i "cache-control"`
 
 ## Verification
 
