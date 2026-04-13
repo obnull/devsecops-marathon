@@ -1,0 +1,5 @@
+DNS lookup: %{time_namelookup}s
+TCP connect: %{time_connect}s
+TLS handshake: %{time_appcontent}s
+Server processing (TFFB): %{time_starttransfer}s
+Total time: %{time_total}s
