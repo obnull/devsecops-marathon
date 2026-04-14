@@ -33,10 +33,10 @@ Focus of this month:
 
 ## 📅 Week 1: Bash Basics & Variables
 
-- [ ] **Day 62:** Introduction to Bash (shebang, execution)  
+- [x] **Day 62:** Introduction to Bash (shebang, execution)  
   📁 `/03-bash/day-62-bash-intro`
 
-- [ ] **Day 63:** Variables & environment (`$VAR`, `export`, `env`)  
+- [x] **Day 63:** Variables & environment (`$VAR`, `export`, `env`)  
   📁 `/03-bash/day-63-variables`
 
 - [ ] **Day 64:** Input/Output (`read`, `echo`, `$1`, `$2`)  
