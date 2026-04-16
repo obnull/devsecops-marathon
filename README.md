@@ -39,7 +39,7 @@ Focus of this month:
 - [x] **Day 63:** Variables & environment (`$VAR`, `export`, `env`)  
   📁 `/03-bash/day-63-variables`
 
-- [ ] **Day 64:** Input/Output (`read`, `echo`, `$1`, `$2`)  
+- [x] **Day 64:** Input/Output (`read`, `echo`, `$1`, `$2`)  
   📁 `/03-bash/day-64-input-output`
 
 - [ ] **Day 65:** Arithmetic & basic operations  
