@@ -42,7 +42,7 @@ Focus of this month:
 - [x] **Day 64:** Input/Output (`read`, `echo`, `$1`, `$2`)  
   📁 `/03-bash/day-64-input-output`
 
-- [ ] **Day 65:** Arithmetic & basic operations  
+- [x] **Day 65:** Arithmetic & basic operations  
   📁 `/03-bash/day-65-arithmetic`
 
 - [ ] **Day 66:** Mini-scripts (backup name generator)  
