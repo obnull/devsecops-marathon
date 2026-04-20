@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DAYS=(
-"day-62-bash-intro"
-"day-63-variables"
-"day-64-input-output"
-"day-65-arithmetic"
-"day-66-mini-scripts"
-"day-67-lab-backup"
+"day-69-if-else"
+"day-70-comparisons"
+"day-71-file-checks"
+"day-72-safety-checks"
+"day-73-exit-codes"
+"day-74-lab-system-check"
 )
 
 STAGE="03-bash"

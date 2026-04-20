@@ -45,10 +45,10 @@ Focus of this month:
 - [x] **Day 65:** Arithmetic & basic operations  
   📁 `/03-bash/day-65-arithmetic`
 
-- [ ] **Day 66:** Mini-scripts (backup name generator)  
+- [x] **Day 66:** Mini-scripts (backup name generator)  
   📁 `/03-bash/day-66-mini-scripts`
 
-- [ ] **Day 67:** **[LAB] Basic Backup Script v1.0**  
+- [x] **Day 67:** **[LAB] Basic Backup Script v1.0**  
   📁 `/03-bash/day-67-lab-backup`
 
 ---
