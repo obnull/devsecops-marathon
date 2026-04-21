@@ -55,7 +55,7 @@ Focus of this month:
 
 ## 🔀 Week 2: Conditions & Logic
 
-- [ ] **Day 69:** Conditional statements (`if`, `else`, `elif`)  
+- [x] **Day 69:** Conditional statements (`if`, `else`, `elif`)  
   📁 `/03-bash/day-69-if-else`
 
 - [ ] **Day 70:** Comparison operators (`-eq`, `-ne`, `-f`, `-d`)  
