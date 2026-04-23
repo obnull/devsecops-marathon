@@ -61,7 +61,7 @@ Focus of this month:
 - [x] **Day 70:** Comparison operators (`-eq`, `-ne`, `-f`, `-d`)  
   📁 `/03-bash/day-70-comparisons`
 
-- [ ] **Day 71:** File & directory validation  
+- [x] **Day 71:** File & directory validation  
   📁 `/03-bash/day-71-file-checks`
 
 - [ ] **Day 72:** Defensive scripting & safety checks  
