@@ -64,7 +64,7 @@ Focus of this month:
 - [x] **Day 71:** File & directory validation  
   📁 `/03-bash/day-71-file-checks`
 
-- [ ] **Day 72:** Defensive scripting & safety checks  
+- [x] **Day 72:** Defensive scripting & safety checks  
   📁 `/03-bash/day-72-safety-checks`
 
 - [ ] **Day 73:** Exit codes & error handling  
