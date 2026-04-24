@@ -1,4 +1,5 @@
-# Day 71 — File and Directory Validation
+# Stage 01: Linux & Networking Fundamentals
+## Day 71: File and Directory Validation
 
 ## Objective
 
