@@ -67,10 +67,10 @@ Focus of this month:
 - [x] **Day 72:** Defensive scripting & safety checks  
   📁 `/03-bash/day-72-safety-checks`
 
-- [ ] **Day 73:** Exit codes & error handling  
+- [x] **Day 73:** Exit codes & error handling  
   📁 `/03-bash/day-73-exit-codes`
 
-- [ ] **Day 74:** **[LAB] System State Validation Script**  
+- [x] **Day 74:** **[LAB] System State Validation Script**  
   📁 `/03-bash/day-74-lab-system-check`
 
 ---
