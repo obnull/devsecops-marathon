@@ -1,0 +1,4 @@
+web01.example.com
+db01.example.com
+cache01.example.com
+backup01.example.com
