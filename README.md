@@ -77,13 +77,13 @@ Focus of this month:
 
 ## 🔁 Week 3: Loops & Data Processing
 
-- [ ] **Day 76:** `for` loops (iterating files & lists)  
+- [x] **Day 76:** `for` loops (iterating files & lists)  
   📁 `/03-bash/day-76-for-loops`
 
-- [ ] **Day 77:** `while` loops (monitoring & waiting)  
+- [x] **Day 77:** `while` loops (monitoring & waiting)  
   📁 `/03-bash/day-77-while-loops`
 
-- [ ] **Day 78:** Processing logs with loops  
+- [x] **Day 78:** Processing logs with loops  
   📁 `/03-bash/day-78-log-processing`
 
 - [ ] **Day 79:** Pattern filtering with `grep`  
