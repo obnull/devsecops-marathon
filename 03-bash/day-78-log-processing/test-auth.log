@@ -1,0 +1,9 @@
+Jan 15 10:23:45 server sshd[1234]: Failed password for root from 192.168.1.100 port 54322
+Jan 15 10:23:50 server sshd[1234]: Failed password for root from 192.168.1.100 port 54322
+Jan 15 10:24:01 server sshd[1235]: Accepted password for alice from 192.168.1.10 port 55123
+Jan 15 10:25:32 server sshd[1236]: Failed password for invalid user admin from 45.33.22.11 port 33211
+Jan 15 10:26:15 server sshd[1237]: Failed password for root from 192.168.1.100 port 54333
+Jan 15 10:27:00 server sudo: alice : TTY=pts/0 ; COMMAND=/bin/ls
+Jan 15 10:28:22 server sshd[1238]: Accepted password for bob from 10.0.0.5 port 44521
+Jan 15 10:29:44 server sshd[1239]: Failed password for root from 45.33.22.11 port 33244
+Jan 15 10:30:10 server sshd[1240]: Disconnected from 192.168.1.100 port 54333
