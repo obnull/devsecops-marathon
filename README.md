@@ -86,7 +86,7 @@ Focus of this month:
 - [x] **Day 78:** Processing logs with loops  
   📁 `/03-bash/day-78-log-processing`
 
-- [ ] **Day 79:** Pattern filtering with `grep`  
+- [x] **Day 79:** Pattern filtering with `grep`  
   📁 `/03-bash/day-79-grep`
 
 - [ ] **Day 80:** Basic text processing (`sed`, `awk`)  
