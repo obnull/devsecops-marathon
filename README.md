@@ -89,7 +89,7 @@ Focus of this month:
 - [x] **Day 79:** Pattern filtering with `grep`  
   📁 `/03-bash/day-79-grep`
 
-- [ ] **Day 80:** Basic text processing (`sed`, `awk`)  
+- [x] **Day 80:** Basic text processing (`sed`, `awk`)  
   📁 `/03-bash/day-80-sed-awk`
 
 - [ ] **Day 81:** **[LAB] Security Log Analysis (`auth.log`)**  
