@@ -1,0 +1,5 @@
+2025-01-15 10:23:45 ERROR Failed to connect
+2025-01-15 10:24:01 INFO Connection established
+2025-01-15 10:25:32 ERROR Timeout occurred
+2025-01-15 10:26:15 WARNING High memory usage
+2025-01-15 10:27:00 ERROR Disk full

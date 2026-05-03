@@ -1,0 +1,4 @@
+root:x:0:0:root:/root:/zsh/bash
+user1:x:1001:1001:User One:/home/user1:/zsh/bash
+user2:x:1002:1002:User Two:/home/user2:/zsh/sh
+nginx:x:101:101:nginx user:/var/www:/zsh/false
