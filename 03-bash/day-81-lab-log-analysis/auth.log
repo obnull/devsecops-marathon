@@ -1,0 +1,6 @@
+Jan 15 10:31:20 server sshd[1241]: Failed password for root from 45.33.22.11 port 33255
+Jan 15 10:32:05 server sshd[1242]: Failed password for invalid user test from 185.20.44.122 port 44123
+Jan 15 10:33:00 server sshd[1243]: Failed password for root from 185.20.44.122 port 44124
+Jan 15 10:33:45 server sshd[1244]: Failed password for invalid user admin from 185.20.44.122 port 44125
+Jan 15 10:34:30 server sshd[1245]: Accepted password for alice from 192.168.1.10 port 55123
+Jan 15 10:35:00 server sudo: alice : TTY=pts/0 ; COMMAND=/bin/systemctl restart nginx
