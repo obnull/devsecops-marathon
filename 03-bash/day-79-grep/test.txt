@@ -1,0 +1,13 @@
+root: passwd 12345
+user1: 123
+admin: 999
+192.168.1.100
+10.0.0.5
+45.33.22.11
+172.16.0.1
+Failed password for root from 192.168.1.100
+Accepted password for alice
+Failed password for invalid user admin
+sudo: user1 : command /bin/ls
+sudo: root : command /bin/rm
+Success login from 10.0.0.5
