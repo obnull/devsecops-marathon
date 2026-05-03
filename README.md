@@ -92,7 +92,7 @@ Focus of this month:
 - [x] **Day 80:** Basic text processing (`sed`, `awk`)  
   📁 `/03-bash/day-80-sed-awk`
 
-- [ ] **Day 81:** **[LAB] Security Log Analysis (`auth.log`)**  
+- [x] **Day 81:** **[LAB] Security Log Analysis (`auth.log`)**  
   📁 `/03-bash/day-81-lab-log-analysis`
 
 ---
