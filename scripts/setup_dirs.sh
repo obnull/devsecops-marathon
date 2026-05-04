@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DAYS=(
-"day-76-for-loops"
-"day-77-while-loops"
-"day-78-log-processing"
-"day-79-grep"
-"day-80-sed-awk"
-"day-81-lab-log-analysis"
+"day-83-functions"
+"day-84-modularity"
+"day-85-logging"
+"day-86-cron"
+"day-87-final-prep"
+"day-88-final-security-monitor"
 )
 
 STAGE="03-bash"
