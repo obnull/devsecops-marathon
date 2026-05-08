@@ -99,16 +99,16 @@ Focus of this month:
 
 ## 🧩 Week 4: Functions & Final Project
 
-- [ ] **Day 83:** Functions (declaration & calling)  
+- [x] **Day 83:** Functions (declaration & calling)  
   📁 `/03-bash/day-83-functions`
 
-- [ ] **Day 84:** Modular scripts & code separation  
+- [x] **Day 84:** Modular scripts & code separation  
   📁 `/03-bash/day-84-modularity`
 
-- [ ] **Day 85:** Structured logging (timestamps, log files)  
+- [x] **Day 85:** Structured logging (timestamps, log files)  
   📁 `/03-bash/day-85-logging`
 
-- [ ] **Day 86:** Automating with cron  
+- [x] **Day 86:** Automating with cron  
   📁 `/03-bash/day-86-cron`
 
 - [ ] **Day 87:** Final project design & preparation  
