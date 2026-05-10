@@ -111,10 +111,10 @@ Focus of this month:
 - [x] **Day 86:** Automating with cron  
   📁 `/03-bash/day-86-cron`
 
-- [ ] **Day 87:** Final project design & preparation  
+- [x] **Day 87:** Final project design & preparation  
   📁 `/03-bash/day-87-final-prep`
 
-- [ ] **Day 88:** **[FINAL PROJECT] System Security Monitoring Script**  
+- [x] **Day 88:** **[FINAL PROJECT] System Security Monitoring Script**  
   📁 `/03-bash/day-88-final-security-monitor`
 
 ---
