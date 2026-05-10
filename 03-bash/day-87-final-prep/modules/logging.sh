@@ -7,16 +7,20 @@ ERROR_LOG="$LOG_DIR/errors.log"
 mkdir -p "$LOG_DIR"
 
 log_info() {
-echo "[$(date '+%Y-%m-%d %H:%M:%S')] [INFO] $1" >> "$LOG_FILE"
+    local msg="[$(date '+%Y-%m-%d %H:%M:%S')] [INFO] $1"
+    echo "$msg" >> "$LOG_FILE"
+    echo -e "${GREEN}$msg${NC}"
 }
 
 log_warn() {
-echo "[$(date '+%Y-%m-%d %H:%M:%S')] [WARN] $1" >> "$LOG_FILE"
+    local msg="[$(date '+%Y-%m-%d %H:%M:%S')] [WARN] $1"
+    echo "$msg" >> "$LOG_FILE"
+    echo -e "${YELLOW}$msg${NC}"
 }
 
 log_error() {
-echo "[$(date '+%Y-%m-%d %H:%M:%S')] [ERROR] $1" >> "$LOG_FILE"
-echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" >> "$ERROR_LOG"
+    local msg="[$(date '+%Y-%m-%d %H:%M:%S')] [ERROR] $1"
+    echo "$msg" >> "$LOG_FILE"
+    echo "$msg" >> "$ERROR_LOG"
+    echo -e "${RED}$msg${NC}"
 }
-
-

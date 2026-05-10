@@ -1,5 +1,5 @@
-[2026-05-10 09:00:31] [INFO] === Security Monitor Started ===
-[2026-05-10 09:00:31] [INFO] Checking disk...
-[2026-05-10 09:00:31] [INFO] Checking failed logins...
-[2026-05-10 09:00:31] [INFO] Sending report...
-[2026-05-10 09:00:31] [INFO] === Security Monitor Finished ===
+[2026-05-10 09:59:56] [INFO] === Security Monitor Started ===
+[2026-05-10 09:59:56] [INFO] Disk usage: 26% - OK
+[2026-05-10 09:59:56] [WARN] Memory usage: 138 megabytes, its bad!
+[2026-05-10 09:59:57] [WARN] Warning! Very logins failed! (17)
+[2026-05-10 09:59:57] [INFO] === Security Monitor Finished ===
