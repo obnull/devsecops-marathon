@@ -1,15 +1,15 @@
 #!/bin/bash
 
 DAYS=(
-"day-83-functions"
-"day-84-modularity"
-"day-85-logging"
-"day-86-cron"
-"day-87-final-prep"
-"day-88-final-security-monitor"
+"day-89-nginx-install"
+"day-90-nginx-config"
+"day-91-nginx-logs"
+"day-92-static-site"
+"day-93-nginx-reload"
+"day-94-lab-static-site"
 )
 
-STAGE="03-bash"
+STAGE="04-web"
 
 mkdir -p $STAGE
 
