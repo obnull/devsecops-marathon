@@ -3,8 +3,8 @@
 Welcome to my journey! This repository is a 24-month intensive training log where I transform from zero to a Middle DevSecOps Engineer. All materials, configs, and labs are centralized in this `devsecops-marathon` mono-repo.
 
 ## 🎯 Current Goal
-- **Phase:** 1 (Linux, Networking & Automation)
-- **Status:** Month 3 - Bash Scripting & Automation 🚀
+- **Phase:** 1 (Linux, Networking, Automation & Web Security)
+- **Status:** Month 4 - Web Servers, SSL & Security Headers 🚀
 - **Target Certs:** CKS (Certified Kubernetes Security Specialist) & CDP.
 
 ---
@@ -13,109 +13,109 @@ Welcome to my journey! This repository is a 24-month intensive training log wher
 
 | Stage | Focus Area | Status | Period | Folder |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | **Linux, Networking & Automation** | 🟢 Active | Month 1-3 | `/01-linux-basics`, `/02-networking`, `/03-bash` |
-| **02** | **Containers & CI/CD Security** | ⚪ Pending | Month 4-6 | `/07-docker-expert` |
-| **03** | **Kubernetes & Cloud Native** | ⚪ Pending | Month 7-12 | `/13-k8s-security` |
-| **04** | **Advanced DevSecOps** | ⚪ Pending | Month 13-24 | `/19-advanced-sec` |
+| **01** | **Linux, Networking, Automation & Web** | 🟢 Active | Month 1-4 | `/01-linux-basics`, `/02-networking`, `/03-bash`, `/04-web` |
+| **02** | **Containers & CI/CD Security** | ⚪ Pending | Month 5-8 | `/07-docker-expert` |
+| **03** | **Kubernetes & Cloud Native** | ⚪ Pending | Month 9-14 | `/13-k8s-security` |
+| **04** | **Advanced DevSecOps** | ⚪ Pending | Month 15-24 | `/19-advanced-sec` |
 
 ---
 
-# 🐧 Month 3: Bash Scripting & Automation
+# 🌐 Month 4: Web Servers, SSL & Security Headers
 
 Focus of this month:
-- Writing safe and reliable Bash scripts
-- Automating system administration tasks
-- Processing logs and monitoring security events
-- Scheduling tasks with cron
-- Building a final security monitoring tool
+- Installing and configuring Nginx web server
+- Serving static sites and managing logs
+- Setting up reverse proxy and load balancing
+- Securing traffic with SSL/TLS (Let's Encrypt)
+- Hardening web applications with security headers
 
 ---
 
-## 📅 Week 1: Bash Basics & Variables
+## 📅 Week 1: Nginx Basics & Static Sites
 
-- [x] **Day 62:** Introduction to Bash (shebang, execution)  
-  📁 `/03-bash/day-62-bash-intro`
+- [ ] **Day 89:** Installing Nginx, basic configuration  
+  📁 `/04-web/day-89-nginx-install`
 
-- [x] **Day 63:** Variables & environment (`$VAR`, `export`, `env`)  
-  📁 `/03-bash/day-63-variables`
+- [ ] **Day 90:** server_name, root, index directives  
+  📁 `/04-web/day-90-nginx-config`
 
-- [x] **Day 64:** Input/Output (`read`, `echo`, `$1`, `$2`)  
-  📁 `/03-bash/day-64-input-output`
+- [ ] **Day 91:** Access and error log handling  
+  📁 `/04-web/day-91-nginx-logs`
 
-- [x] **Day 65:** Arithmetic & basic operations  
-  📁 `/03-bash/day-65-arithmetic`
+- [ ] **Day 92:** Serving static HTML sites  
+  📁 `/04-web/day-92-static-site`
 
-- [x] **Day 66:** Mini-scripts (backup name generator)  
-  📁 `/03-bash/day-66-mini-scripts`
+- [ ] **Day 93:** Graceful reload, restart, config testing  
+  📁 `/04-web/day-93-nginx-reload`
 
-- [x] **Day 67:** **[LAB] Basic Backup Script v1.0**  
-  📁 `/03-bash/day-67-lab-backup`
-
----
-
-## 🔀 Week 2: Conditions & Logic
-
-- [x] **Day 69:** Conditional statements (`if`, `else`, `elif`)  
-  📁 `/03-bash/day-69-if-else`
-
-- [x] **Day 70:** Comparison operators (`-eq`, `-ne`, `-f`, `-d`)  
-  📁 `/03-bash/day-70-comparisons`
-
-- [x] **Day 71:** File & directory validation  
-  📁 `/03-bash/day-71-file-checks`
-
-- [x] **Day 72:** Defensive scripting & safety checks  
-  📁 `/03-bash/day-72-safety-checks`
-
-- [x] **Day 73:** Exit codes & error handling  
-  📁 `/03-bash/day-73-exit-codes`
-
-- [x] **Day 74:** **[LAB] System State Validation Script**  
-  📁 `/03-bash/day-74-lab-system-check`
+- [ ] **Day 94:** **[LAB] Static website on Nginx**  
+  📁 `/04-web/day-94-lab-static-site`
 
 ---
 
-## 🔁 Week 3: Loops & Data Processing
+## 🔄 Week 2: Reverse Proxy & Load Balancing
 
-- [x] **Day 76:** `for` loops (iterating files & lists)  
-  📁 `/03-bash/day-76-for-loops`
+- [ ] **Day 96:** Reverse proxy concept and use cases  
+  📁 `/04-web/day-96-reverse-proxy`
 
-- [x] **Day 77:** `while` loops (monitoring & waiting)  
-  📁 `/03-bash/day-77-while-loops`
+- [ ] **Day 97:** Proxying to a Python (Flask) application  
+  📁 `/04-web/day-97-proxy-flask`
 
-- [x] **Day 78:** Processing logs with loops  
-  📁 `/03-bash/day-78-log-processing`
+- [ ] **Day 98:** proxy_set_header (Host, X-Real-IP)  
+  📁 `/04-web/day-98-proxy-headers`
 
-- [x] **Day 79:** Pattern filtering with `grep`  
-  📁 `/03-bash/day-79-grep`
+- [ ] **Day 99:** Load balancing with upstream  
+  📁 `/04-web/day-99-load-balancing`
 
-- [x] **Day 80:** Basic text processing (`sed`, `awk`)  
-  📁 `/03-bash/day-80-sed-awk`
+- [ ] **Day 100:** Redirects and rewrite rules  
+  📁 `/04-web/day-100-redirects`
 
-- [x] **Day 81:** **[LAB] Security Log Analysis (`auth.log`)**  
-  📁 `/03-bash/day-81-lab-log-analysis`
+- [ ] **Day 101:** **[LAB] Reverse proxy for a containerized app**  
+  📁 `/04-web/day-101-lab-reverse-proxy`
 
 ---
 
-## 🧩 Week 4: Functions & Final Project
+## 🔒 Week 3: SSL/TLS (HTTPS)
 
-- [x] **Day 83:** Functions (declaration & calling)  
-  📁 `/03-bash/day-83-functions`
+- [ ] **Day 103:** TLS handshake and certificate basics  
+  📁 `/04-web/day-103-tls-basics`
 
-- [x] **Day 84:** Modular scripts & code separation  
-  📁 `/03-bash/day-84-modularity`
+- [ ] **Day 104:** Installing Certbot, issuing Let's Encrypt certificate  
+  📁 `/04-web/day-104-certbot-issue`
 
-- [x] **Day 85:** Structured logging (timestamps, log files)  
-  📁 `/03-bash/day-85-logging`
+- [ ] **Day 105:** Enabling HTTPS in Nginx (port 443, ssl_certificate)  
+  📁 `/04-web/day-105-nginx-https`
 
-- [x] **Day 86:** Automating with cron  
-  📁 `/03-bash/day-86-cron`
+- [ ] **Day 106:** Automated certificate renewal (cron / systemd timer)  
+  📁 `/04-web/day-106-cert-renewal`
 
-- [x] **Day 87:** Final project design & preparation  
-  📁 `/03-bash/day-87-final-prep`
+- [ ] **Day 107:** SSL security testing (testssl.sh, SSL Labs)  
+  📁 `/04-web/day-107-ssl-test`
 
-- [x] **Day 88:** **[FINAL PROJECT] System Security Monitoring Script**  
-  📁 `/03-bash/day-88-final-security-monitor`
+- [ ] **Day 108:** **[LAB] Full HTTPS app with static + reverse proxy**  
+  📁 `/04-web/day-108-lab-ssl-site`
+
+---
+
+## 🛡️ Week 4: HTTP Security Headers
+
+- [ ] **Day 110:** X-Frame-Options, X-Content-Type-Options  
+  📁 `/04-web/day-110-security-headers-1`
+
+- [ ] **Day 111:** Strict-Transport-Security (HSTS)  
+  📁 `/04-web/day-111-hsts`
+
+- [ ] **Day 112:** Content-Security-Policy (CSP) basics  
+  📁 `/04-web/day-112-csp-basics`
+
+- [ ] **Day 113:** Referrer-Policy and Permissions-Policy  
+  📁 `/04-web/day-113-referrer-policy`
+
+- [ ] **Day 114:** Limiting HTTP methods and request body size  
+  📁 `/04-web/day-114-method-limit`
+
+- [ ] **Day 115:** **[FINAL PROJECT] Static + Reverse Proxy + SSL + Security Headers**  
+  📁 `/04-web/day-115-final-lab-secure-website`
 
 ---
 
@@ -129,6 +129,7 @@ Focus of this month:
 - `/01-linux-basics` — OS fundamentals, permissions, processes  
 - `/02-networking` — Network diagnostics, SSH hardening, firewalls  
 - `/03-bash` — Bash scripting, automation, log analysis, security monitoring  
+- `/04-web` — Nginx, reverse proxy, SSL/TLS, security headers  
 - `/07-docker-expert` — Containerization and image hardening  
 - `/13-k8s-security` — Kubernetes security practices  
 - `/19-advanced-sec` — Advanced DevSecOps tools and projects  
@@ -141,4 +142,5 @@ Historical snapshots of monthly progress:
 
 * Month 01 — Linux Basics (Completed ✅)  
 * Month 02 — Networking & Hardening (Completed ✅)  
-* Month 03 — Bash Scripting & Automation (Active 🚀)
+* Month 03 — Bash Scripting & Automation (Completed ✅)  
+* Month 04 — Web Servers, SSL & Security Headers (Active 🚀)
