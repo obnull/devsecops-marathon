@@ -36,7 +36,7 @@ Focus of this month:
 - [x] **Day 89:** Installing Nginx, basic configuration  
   📁 `/04-web/day-89-nginx-install`
 
-- [ ] **Day 90:** server_name, root, index directives  
+- [x] **Day 90:** server_name, root, index directives  
   📁 `/04-web/day-90-nginx-config`
 
 - [ ] **Day 91:** Access and error log handling  
