@@ -33,7 +33,7 @@ Focus of this month:
 
 ## 📅 Week 1: Nginx Basics & Static Sites
 
-- [ ] **Day 89:** Installing Nginx, basic configuration  
+- [x] **Day 89:** Installing Nginx, basic configuration  
   📁 `/04-web/day-89-nginx-install`
 
 - [ ] **Day 90:** server_name, root, index directives  
