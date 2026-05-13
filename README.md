@@ -39,7 +39,7 @@ Focus of this month:
 - [x] **Day 90:** server_name, root, index directives  
   📁 `/04-web/day-90-nginx-config`
 
-- [ ] **Day 91:** Access and error log handling  
+- [x] **Day 91:** Access and error log handling  
   📁 `/04-web/day-91-nginx-logs`
 
 - [ ] **Day 92:** Serving static HTML sites  
