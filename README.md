@@ -42,7 +42,7 @@ Focus of this month:
 - [x] **Day 91:** Access and error log handling  
   📁 `/04-web/day-91-nginx-logs`
 
-- [ ] **Day 92:** Serving static HTML sites  
+- [x] **Day 92:** Serving static HTML sites  
   📁 `/04-web/day-92-static-site`
 
 - [ ] **Day 93:** Graceful reload, restart, config testing  
