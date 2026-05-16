@@ -48,7 +48,7 @@ Focus of this month:
 - [x] **Day 93:** Graceful reload, restart, config testing  
   📁 `/04-web/day-93-nginx-reload`
 
-- [ ] **Day 94:** **[LAB] Static website on Nginx**  
+- [x] **Day 94:** **[LAB] Static website on Nginx**  
   📁 `/04-web/day-94-lab-static-site`
 
 ---
