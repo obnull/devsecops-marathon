@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DAYS=(
-"day-89-nginx-install"
-"day-90-nginx-config"
-"day-91-nginx-logs"
-"day-92-static-site"
-"day-93-nginx-reload"
-"day-94-lab-static-site"
+"day-96-reverse-proxy"
+"day-97-proxy-flask"
+"day-98-proxy-headers"
+"day-99-load-balancing"
+"day-100-redirects"
+"day-101-lab-reverse-proxy"
 )
 
 STAGE="04-web"
