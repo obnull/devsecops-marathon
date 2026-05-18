@@ -55,7 +55,7 @@ Focus of this month:
 
 ## 🔄 Week 2: Reverse Proxy & Load Balancing
 
-- [ ] **Day 96:** Reverse proxy concept and use cases  
+- [x] **Day 96:** Reverse proxy concept and use cases  
   📁 `/04-web/day-96-reverse-proxy`
 
 - [ ] **Day 97:** Proxying to a Python (Flask) application  
