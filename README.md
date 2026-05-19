@@ -58,7 +58,7 @@ Focus of this month:
 - [x] **Day 96:** Reverse proxy concept and use cases  
   📁 `/04-web/day-96-reverse-proxy`
 
-- [ ] **Day 97:** Proxying to a Python (Flask) application  
+- [x] **Day 97:** Proxying to a Python (Flask) application  
   📁 `/04-web/day-97-proxy-flask`
 
 - [ ] **Day 98:** proxy_set_header (Host, X-Real-IP)  
