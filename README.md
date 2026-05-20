@@ -61,7 +61,7 @@ Focus of this month:
 - [x] **Day 97:** Proxying to a Python (Flask) application  
   📁 `/04-web/day-97-proxy-flask`
 
-- [ ] **Day 98:** proxy_set_header (Host, X-Real-IP)  
+- [x] **Day 98:** proxy_set_header (Host, X-Real-IP)  
   📁 `/04-web/day-98-proxy-headers`
 
 - [ ] **Day 99:** Load balancing with upstream  
