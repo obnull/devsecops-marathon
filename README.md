@@ -64,10 +64,10 @@ Focus of this month:
 - [x] **Day 98:** proxy_set_header (Host, X-Real-IP)  
   📁 `/04-web/day-98-proxy-headers`
 
-- [ ] **Day 99:** Load balancing with upstream  
+- [x] **Day 99:** Load balancing with upstream  
   📁 `/04-web/day-99-load-balancing`
 
-- [ ] **Day 100:** Redirects and rewrite rules  
+- [x] **Day 100:** Redirects and rewrite rules  
   📁 `/04-web/day-100-redirects`
 
 - [ ] **Day 101:** **[LAB] Reverse proxy for a containerized app**  
