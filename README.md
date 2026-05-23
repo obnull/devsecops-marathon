@@ -70,7 +70,7 @@ Focus of this month:
 - [x] **Day 100:** Redirects and rewrite rules  
   📁 `/04-web/day-100-redirects`
 
-- [ ] **Day 101:** **[LAB] Reverse proxy for a containerized app**  
+- [x] **Day 101:** **[LAB] Reverse proxy for a containerized app**  
   📁 `/04-web/day-101-lab-reverse-proxy`
 
 ---
