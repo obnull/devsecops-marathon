@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DAYS=(
-"day-96-reverse-proxy"
-"day-97-proxy-flask"
-"day-98-proxy-headers"
-"day-99-load-balancing"
-"day-100-redirects"
-"day-101-lab-reverse-proxy"
+"day-103-tls-basics"
+"day-104-certbot-issue"
+"day-105-nginx-https"
+"day-106-cert-renewal"
+"day-107-ssl-test"
+"day-108-lab-ssl-site"
 )
 
 STAGE="04-web"
