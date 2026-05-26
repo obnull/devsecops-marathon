@@ -77,10 +77,10 @@ Focus of this month:
 
 ## 🔒 Week 3: SSL/TLS (HTTPS)
 
-- [ ] **Day 103:** TLS handshake and certificate basics  
+- [x] **Day 103:** TLS handshake and certificate basics  
   📁 `/04-web/day-103-tls-basics`
 
-- [ ] **Day 104:** Installing Certbot, issuing Let's Encrypt certificate  
+- [x] **Day 104:** Installing Certbot, issuing Let's Encrypt certificate  
   📁 `/04-web/day-104-certbot-issue`
 
 - [ ] **Day 105:** Enabling HTTPS in Nginx (port 443, ssl_certificate)  
