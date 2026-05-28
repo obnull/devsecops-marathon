@@ -83,7 +83,7 @@ Focus of this month:
 - [x] **Day 104:** Installing Certbot, issuing Let's Encrypt certificate  
   📁 `/04-web/day-104-certbot-issue`
 
-- [ ] **Day 105:** Enabling HTTPS in Nginx (port 443, ssl_certificate)  
+- [x] **Day 105:** Enabling HTTPS in Nginx (port 443, ssl_certificate)  
   📁 `/04-web/day-105-nginx-https`
 
 - [ ] **Day 106:** Automated certificate renewal (cron / systemd timer)  
