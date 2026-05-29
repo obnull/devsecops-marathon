@@ -86,10 +86,10 @@ Focus of this month:
 - [x] **Day 105:** Enabling HTTPS in Nginx (port 443, ssl_certificate)  
   📁 `/04-web/day-105-nginx-https`
 
-- [ ] **Day 106:** Automated certificate renewal (cron / systemd timer)  
+- [x] **Day 106:** Automated certificate renewal (cron / systemd timer)  
   📁 `/04-web/day-106-cert-renewal`
 
-- [ ] **Day 107:** SSL security testing (testssl.sh, SSL Labs)  
+- [x] **Day 107:** SSL security testing (testssl.sh, SSL Labs)  
   📁 `/04-web/day-107-ssl-test`
 
 - [ ] **Day 108:** **[LAB] Full HTTPS app with static + reverse proxy**  
