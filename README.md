@@ -92,7 +92,7 @@ Focus of this month:
 - [x] **Day 107:** SSL security testing (testssl.sh, SSL Labs)  
   📁 `/04-web/day-107-ssl-test`
 
-- [ ] **Day 108:** **[LAB] Full HTTPS app with static + reverse proxy**  
+- [x] **Day 108:** **[LAB] Full HTTPS app with static + reverse proxy**  
   📁 `/04-web/day-108-lab-ssl-site`
 
 ---
