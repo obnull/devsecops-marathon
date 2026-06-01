@@ -99,7 +99,7 @@ Focus of this month:
 
 ## 🛡️ Week 4: HTTP Security Headers
 
-- [ ] **Day 110:** X-Frame-Options, X-Content-Type-Options  
+- [x] **Day 110:** X-Frame-Options, X-Content-Type-Options  
   📁 `/04-web/day-110-security-headers-1`
 
 - [ ] **Day 111:** Strict-Transport-Security (HSTS)  

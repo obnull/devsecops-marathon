@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DAYS=(
-"day-103-tls-basics"
-"day-104-certbot-issue"
-"day-105-nginx-https"
-"day-106-cert-renewal"
-"day-107-ssl-test"
-"day-108-lab-ssl-site"
+"day-110-security-headers-1"
+"day-111-hsts"
+"day-112-csp-basics"
+"day-113-referrer-policy"
+"day-114-method-limit"
+"day-115-final-lab-secure-website"
 )
 
 STAGE="04-web"
