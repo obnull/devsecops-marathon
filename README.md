@@ -102,7 +102,7 @@ Focus of this month:
 - [x] **Day 110:** X-Frame-Options, X-Content-Type-Options  
   📁 `/04-web/day-110-security-headers-1`
 
-- [ ] **Day 111:** Strict-Transport-Security (HSTS)  
+- [x] **Day 111:** Strict-Transport-Security (HSTS)  
   📁 `/04-web/day-111-hsts`
 
 - [ ] **Day 112:** Content-Security-Policy (CSP) basics  
