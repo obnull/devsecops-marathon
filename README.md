@@ -105,7 +105,7 @@ Focus of this month:
 - [x] **Day 111:** Strict-Transport-Security (HSTS)  
   📁 `/04-web/day-111-hsts`
 
-- [ ] **Day 112:** Content-Security-Policy (CSP) basics  
+- [x] **Day 112:** Content-Security-Policy (CSP) basics  
   📁 `/04-web/day-112-csp-basics`
 
 - [ ] **Day 113:** Referrer-Policy and Permissions-Policy  
