@@ -108,7 +108,7 @@ Focus of this month:
 - [x] **Day 112:** Content-Security-Policy (CSP) basics  
   📁 `/04-web/day-112-csp-basics`
 
-- [ ] **Day 113:** Referrer-Policy and Permissions-Policy  
+- [x] **Day 113:** Referrer-Policy and Permissions-Policy  
   📁 `/04-web/day-113-referrer-policy`
 
 - [ ] **Day 114:** Limiting HTTP methods and request body size  
