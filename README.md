@@ -111,7 +111,7 @@ Focus of this month:
 - [x] **Day 113:** Referrer-Policy and Permissions-Policy  
   📁 `/04-web/day-113-referrer-policy`
 
-- [ ] **Day 114:** Limiting HTTP methods and request body size  
+- [x] **Day 114:** Limiting HTTP methods and request body size  
   📁 `/04-web/day-114-method-limit`
 
 - [ ] **Day 115:** **[FINAL PROJECT] Static + Reverse Proxy + SSL + Security Headers**  
