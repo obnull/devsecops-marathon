@@ -1,7 +1,7 @@
 from flask import Flask, request
 import sys
 
-PORT = sys.argv[1] if len(sys.argv) > 1 else "5200"
+PORT = sys.argv[1] if len(sys.argv) > 1 else "5300"
 
 app = Flask(__name__)
 
