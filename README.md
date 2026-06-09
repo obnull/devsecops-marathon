@@ -1,121 +1,99 @@
-# 🛡️ Road to DevSecOps Middle (2026-2028)
-
-Welcome to my journey! This repository is a 24-month intensive training log where I transform from zero to a Middle DevSecOps Engineer. All materials, configs, and labs are centralized in this `devsecops-marathon` mono-repo.
-
-## 🎯 Current Goal
-- **Phase:** 1 (Linux, Networking, Automation & Web Security)
-- **Status:** Month 4 - Web Servers, SSL & Security Headers 🚀
-- **Target Certs:** CKS (Certified Kubernetes Security Specialist) & CDP.
-
----
-
-## 📊 Progress Tracker
-
-| Stage | Focus Area | Status | Period | Folder |
-| :--- | :--- | :--- | :--- | :--- |
-| **01** | **Linux, Networking, Automation & Web** | 🟢 Active | Month 1-4 | `/01-linux-basics`, `/02-networking`, `/03-bash`, `/04-web` |
-| **02** | **Containers & CI/CD Security** | ⚪ Pending | Month 5-8 | `/07-docker-expert` |
-| **03** | **Kubernetes & Cloud Native** | ⚪ Pending | Month 9-14 | `/13-k8s-security` |
-| **04** | **Advanced DevSecOps** | ⚪ Pending | Month 15-24 | `/19-advanced-sec` |
-
----
-
-# 🌐 Month 4: Web Servers, SSL & Security Headers
+# 🐍 Month 5: Python & API
 
 Focus of this month:
-- Installing and configuring Nginx web server
-- Serving static sites and managing logs
-- Setting up reverse proxy and load balancing
-- Securing traffic with SSL/TLS (Let's Encrypt)
-- Hardening web applications with security headers
+- Mastering Python basics: types, logic, functions
+- File operations, exception handling, logging
+- System interaction (os, subprocess) and HTTP (requests)
+- Working with REST APIs: auth, JSON/XML, env secrets
+- Building DevOps tools: health-checks, port scanners, threading
 
 ---
 
-## 📅 Week 1: Nginx Basics & Static Sites
+## 📅 Week 17: Python Basics — Types & Logic
 
-- [x] **Day 89:** Installing Nginx, basic configuration  
-  📁 `/04-web/day-89-nginx-install`
+- [ ] **Day 116:** Python setup (venv, pip, VSCode)  
+  📁 `/05-python-api/day-116-python-setup`
 
-- [x] **Day 90:** server_name, root, index directives  
-  📁 `/04-web/day-90-nginx-config`
+- [ ] **Day 117:** Variables, numbers, strings, f-strings  
+  📁 `/05-python-api/day-117-variables-types`
 
-- [x] **Day 91:** Access and error log handling  
-  📁 `/04-web/day-91-nginx-logs`
+- [ ] **Day 118:** Lists, tuples, dicts, sets  
+  📁 `/05-python-api/day-118-collections`
 
-- [x] **Day 92:** Serving static HTML sites  
-  📁 `/04-web/day-92-static-site`
+- [ ] **Day 119:** Conditions (if/elif/else), boolean logic  
+  📁 `/05-python-api/day-119-conditions`
 
-- [x] **Day 93:** Graceful reload, restart, config testing  
-  📁 `/04-web/day-93-nginx-reload`
+- [ ] **Day 120:** Loops (for/while), comprehensions  
+  📁 `/05-python-api/day-120-loops`
 
-- [x] **Day 94:** **[LAB] Static website on Nginx**  
-  📁 `/04-web/day-94-lab-static-site`
-
----
-
-## 🔄 Week 2: Reverse Proxy & Load Balancing
-
-- [x] **Day 96:** Reverse proxy concept and use cases  
-  📁 `/04-web/day-96-reverse-proxy`
-
-- [x] **Day 97:** Proxying to a Python (Flask) application  
-  📁 `/04-web/day-97-proxy-flask`
-
-- [x] **Day 98:** proxy_set_header (Host, X-Real-IP)  
-  📁 `/04-web/day-98-proxy-headers`
-
-- [x] **Day 99:** Load balancing with upstream  
-  📁 `/04-web/day-99-load-balancing`
-
-- [x] **Day 100:** Redirects and rewrite rules  
-  📁 `/04-web/day-100-redirects`
-
-- [x] **Day 101:** **[LAB] Reverse proxy for a containerized app**  
-  📁 `/04-web/day-101-lab-reverse-proxy`
+- [ ] **Day 121:** **[LAB] Log parser with HTTP status counter**  
+  📁 `/05-python-api/day-121-lab-log-parser`
 
 ---
 
-## 🔒 Week 3: SSL/TLS (HTTPS)
+## 📁 Week 18: Functions, Files & Error Handling
 
-- [x] **Day 103:** TLS handshake and certificate basics  
-  📁 `/04-web/day-103-tls-basics`
+- [ ] **Day 122:** Functions, arguments, return, scope  
+  📁 `/05-python-api/day-122-functions`
 
-- [x] **Day 104:** Installing Certbot, issuing Let's Encrypt certificate  
-  📁 `/04-web/day-104-certbot-issue`
+- [ ] **Day 123:** Modules, imports, __name__ == "__main__"  
+  📁 `/05-python-api/day-123-modules`
 
-- [x] **Day 105:** Enabling HTTPS in Nginx (port 443, ssl_certificate)  
-  📁 `/04-web/day-105-nginx-https`
+- [ ] **Day 124:** File I/O (open, with, json, csv)  
+  📁 `/05-python-api/day-124-files`
 
-- [x] **Day 106:** Automated certificate renewal (cron / systemd timer)  
-  📁 `/04-web/day-106-cert-renewal`
+- [ ] **Day 125:** Exception handling (try/except/finally)  
+  📁 `/05-python-api/day-125-exceptions`
 
-- [x] **Day 107:** SSL security testing (testssl.sh, SSL Labs)  
-  📁 `/04-web/day-107-ssl-test`
+- [ ] **Day 126:** Logging instead of print()  
+  📁 `/05-python-api/day-126-logging`
 
-- [x] **Day 108:** **[LAB] Full HTTPS app with static + reverse proxy**  
-  📁 `/04-web/day-108-lab-ssl-site`
+- [ ] **Day 127:** **[LAB] File permissions audit script**  
+  📁 `/05-python-api/day-127-lab-audit`
 
 ---
 
-## 🛡️ Week 4: HTTP Security Headers
+## 🌐 Week 19: System & Network Interaction
 
-- [x] **Day 110:** X-Frame-Options, X-Content-Type-Options  
-  📁 `/04-web/day-110-security-headers-1`
+- [ ] **Day 128:** os module, subprocess — running Linux commands  
+  📁 `/05-python-api/day-128-os-subprocess`
 
-- [x] **Day 111:** Strict-Transport-Security (HSTS)  
-  📁 `/04-web/day-111-hsts`
+- [ ] **Day 129:** requests module — HTTP, headers, status codes  
+  📁 `/05-python-api/day-129-requests`
 
-- [x] **Day 112:** Content-Security-Policy (CSP) basics  
-  📁 `/04-web/day-112-csp-basics`
+- [ ] **Day 130:** API interaction: authentication, tokens  
+  📁 `/05-python-api/day-130-api-auth`
 
-- [x] **Day 113:** Referrer-Policy and Permissions-Policy  
-  📁 `/04-web/day-113-referrer-policy`
+- [ ] **Day 131:** Parsing JSON and XML responses  
+  📁 `/05-python-api/day-131-json-xml`
 
-- [x] **Day 114:** Limiting HTTP methods and request body size  
-  📁 `/04-web/day-114-method-limit`
+- [ ] **Day 132:** Environment variables & .env (python-dotenv)  
+  📁 `/05-python-api/day-132-env-secrets`
 
-- [x] **Day 115:** **[FINAL PROJECT] Static + Reverse Proxy + SSL + Security Headers**  
-  📁 `/04-web/day-115-final-lab-secure-website`
+- [ ] **Day 133:** **[LAB] Web service health-checker with alerts**  
+  📁 `/05-python-api/day-133-lab-healthcheck`
+
+---
+
+## 🔧 Week 20: DevOps & Security Tools
+
+- [ ] **Day 134:** Working with dates and time (datetime, time)  
+  📁 `/05-python-api/day-134-datetime`
+
+- [ ] **Day 135:** Regular expressions (re) for DevOps  
+  📁 `/05-python-api/day-135-regex`
+
+- [ ] **Day 136:** Socket programming basics  
+  📁 `/05-python-api/day-136-sockets`
+
+- [ ] **Day 137:** Command-line arguments (argparse)  
+  📁 `/05-python-api/day-137-argparse`
+
+- [ ] **Day 138:** Threading: parallel checks and scans  
+  📁 `/05-python-api/day-138-threading`
+
+- [ ] **Day 139:** **[FINAL PROJECT] Multithreaded port scanner with report**  
+  📁 `/05-python-api/day-139-final-port-scanner`
 
 ---
 
@@ -130,6 +108,7 @@ Focus of this month:
 - `/02-networking` — Network diagnostics, SSH hardening, firewalls  
 - `/03-bash` — Bash scripting, automation, log analysis, security monitoring  
 - `/04-web` — Nginx, reverse proxy, SSL/TLS, security headers  
+- `/05-python-api` — Python scripting, HTTP clients, API integration  
 - `/07-docker-expert` — Containerization and image hardening  
 - `/13-k8s-security` — Kubernetes security practices  
 - `/19-advanced-sec` — Advanced DevSecOps tools and projects  
@@ -143,4 +122,5 @@ Historical snapshots of monthly progress:
 * Month 01 — Linux Basics (Completed ✅)  
 * Month 02 — Networking & Hardening (Completed ✅)  
 * Month 03 — Bash Scripting & Automation (Completed ✅)  
-* Month 04 — Web Servers, SSL & Security Headers (Active 🚀)
+* Month 04 — Web Servers, SSL & Security Headers (Completed ✅)  
+* Month 05 — Python & API (Active 🚀)
