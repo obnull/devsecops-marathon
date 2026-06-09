@@ -11,7 +11,7 @@ Focus of this month:
 
 ## 📅 Week 17: Python Basics — Types & Logic
 
-- [ ] **Day 116:** Python setup (venv, pip, VSCode)  
+- [x] **Day 116:** Python setup (venv, pip, VSCode)  
   📁 `/05-python-api/day-116-python-setup`
 
 - [ ] **Day 117:** Variables, numbers, strings, f-strings  
