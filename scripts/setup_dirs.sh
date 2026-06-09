@@ -1,15 +1,15 @@
 #!/bin/bash
 
 DAYS=(
-"day-110-security-headers-1"
-"day-111-hsts"
-"day-112-csp-basics"
-"day-113-referrer-policy"
-"day-114-method-limit"
-"day-115-final-lab-secure-website"
+"day-116-python-setup"
+"day-117-variables-types"
+"day-118-collections"
+"day-119-conditions"
+"day-120-loops"
+"day-121-lab-log-parser"
 )
 
-STAGE="04-web"
+STAGE="05-python-api"
 
 mkdir -p $STAGE
 
