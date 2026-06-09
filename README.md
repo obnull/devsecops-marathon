@@ -14,7 +14,7 @@ Focus of this month:
 - [x] **Day 116:** Python setup (venv, pip, VSCode)  
   📁 `/05-python-api/day-116-python-setup`
 
-- [ ] **Day 117:** Variables, numbers, strings, f-strings  
+- [x] **Day 117:** Variables, numbers, strings, f-strings  
   📁 `/05-python-api/day-117-variables-types`
 
 - [ ] **Day 118:** Lists, tuples, dicts, sets  
