@@ -17,7 +17,7 @@ Focus of this month:
 - [x] **Day 117:** Variables, numbers, strings, f-strings  
   📁 `/05-python-api/day-117-variables-types`
 
-- [ ] **Day 118:** Lists, tuples, dicts, sets  
+- [x] **Day 118:** Lists, tuples, dicts, sets  
   📁 `/05-python-api/day-118-collections`
 
 - [ ] **Day 119:** Conditions (if/elif/else), boolean logic  
