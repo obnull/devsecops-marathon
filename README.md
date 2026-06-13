@@ -20,10 +20,10 @@ Focus of this month:
 - [x] **Day 118:** Lists, tuples, dicts, sets  
   📁 `/05-python-api/day-118-collections`
 
-- [ ] **Day 119:** Conditions (if/elif/else), boolean logic  
+- [x] **Day 119:** Conditions (if/elif/else), boolean logic  
   📁 `/05-python-api/day-119-conditions`
 
-- [ ] **Day 120:** Loops (for/while), comprehensions  
+- [x] **Day 120:** Loops (for/while), comprehensions  
   📁 `/05-python-api/day-120-loops`
 
 - [ ] **Day 121:** **[LAB] Log parser with HTTP status counter**  
