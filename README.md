@@ -26,7 +26,7 @@ Focus of this month:
 - [x] **Day 120:** Loops (for/while), comprehensions  
   📁 `/05-python-api/day-120-loops`
 
-- [ ] **Day 121:** **[LAB] Log parser with HTTP status counter**  
+- [x] **Day 121:** **[LAB] Log parser with HTTP status counter**  
   📁 `/05-python-api/day-121-lab-log-parser`
 
 ---
