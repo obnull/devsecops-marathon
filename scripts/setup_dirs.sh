@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DAYS=(
-"day-116-python-setup"
-"day-117-variables-types"
-"day-118-collections"
-"day-119-conditions"
-"day-120-loops"
-"day-121-lab-log-parser"
+"day-122-functions"
+"day-123-modules"
+"day-124-files"
+"day-125-exceptions"
+"day-126-logging"
+"day-127-lab-audit"
 )
 
 STAGE="05-python-api"
