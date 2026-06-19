@@ -33,7 +33,7 @@ Focus of this month:
 
 ## 📁 Week 18: Functions, Files & Error Handling
 
-- [ ] **Day 122:** Functions, arguments, return, scope  
+- [x] **Day 122:** Functions, arguments, return, scope  
   📁 `/05-python-api/day-122-functions`
 
 - [ ] **Day 123:** Modules, imports, __name__ == "__main__"  
