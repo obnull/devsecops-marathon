@@ -36,10 +36,10 @@ Focus of this month:
 - [x] **Day 122:** Functions, arguments, return, scope  
   📁 `/05-python-api/day-122-functions`
 
-- [ ] **Day 123:** Modules, imports, __name__ == "__main__"  
+- [x] **Day 123:** Modules, imports, __name__ == "__main__"  
   📁 `/05-python-api/day-123-modules`
 
-- [ ] **Day 124:** File I/O (open, with, json, csv)  
+- [x] **Day 124:** File I/O (open, with, json, csv)  
   📁 `/05-python-api/day-124-files`
 
 - [ ] **Day 125:** Exception handling (try/except/finally)  
