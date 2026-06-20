@@ -1,0 +1,4 @@
+Host,CPU%,Memory%,Status
+web-01,45,72,OK
+db-01,82,91,WARN
+cache-01,12,35,OK

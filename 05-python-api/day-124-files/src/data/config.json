@@ -1,0 +1,9 @@
+{
+  "app_name": "HostMonitor",
+  "version": "1.0.0",
+  "check_interval_sec": 60,
+  "targets": [
+    "web-01",
+    "db-01"
+  ]
+}
