@@ -1,0 +1,2 @@
+2026-06-20 14:05:08,828 - INFO - Config loaded: config.txt
+2026-06-20 14:05:08,828 - INFO - Parsed config: {'host': 'localhost', 'port': '8080', 'user': 'admin'}
