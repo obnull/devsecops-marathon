@@ -1,0 +1,17 @@
+[
+    {
+        "file": "permission_check.py",
+        "mode": "644",
+        "status": "OK"
+    },
+    {
+        "file": ".gitkeep",
+        "mode": "644",
+        "status": "OK"
+    },
+    {
+        "file": "test",
+        "mode": "777",
+        "status": "WARNING"
+    }
+]
