@@ -42,13 +42,13 @@ Focus of this month:
 - [x] **Day 124:** File I/O (open, with, json, csv)  
   📁 `/05-python-api/day-124-files`
 
-- [ ] **Day 125:** Exception handling (try/except/finally)  
+- [x] **Day 125:** Exception handling (try/except/finally)  
   📁 `/05-python-api/day-125-exceptions`
 
-- [ ] **Day 126:** Logging instead of print()  
+- [x] **Day 126:** Logging instead of print()  
   📁 `/05-python-api/day-126-logging`
 
-- [ ] **Day 127:** **[LAB] File permissions audit script**  
+- [x] **Day 127:** **[LAB] File permissions audit script**  
   📁 `/05-python-api/day-127-lab-audit`
 
 ---
