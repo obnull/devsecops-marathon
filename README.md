@@ -55,10 +55,10 @@ Focus of this month:
 
 ## 🌐 Week 19: System & Network Interaction
 
-- [ ] **Day 128:** os module, subprocess — running Linux commands  
+- [x] **Day 128:** os module, subprocess — running Linux commands  
   📁 `/05-python-api/day-128-os-subprocess`
 
-- [ ] **Day 129:** requests module — HTTP, headers, status codes  
+- [x] **Day 129:** requests module — HTTP, headers, status codes  
   📁 `/05-python-api/day-129-requests`
 
 - [ ] **Day 130:** API interaction: authentication, tokens  
