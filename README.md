@@ -61,7 +61,7 @@ Focus of this month:
 - [x] **Day 129:** requests module — HTTP, headers, status codes  
   📁 `/05-python-api/day-129-requests`
 
-- [ ] **Day 130:** API interaction: authentication, tokens  
+- [x] **Day 130:** API interaction: authentication, tokens  
   📁 `/05-python-api/day-130-api-auth`
 
 - [ ] **Day 131:** Parsing JSON and XML responses  
