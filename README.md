@@ -64,7 +64,7 @@ Focus of this month:
 - [x] **Day 130:** API interaction: authentication, tokens  
   📁 `/05-python-api/day-130-api-auth`
 
-- [ ] **Day 131:** Parsing JSON and XML responses  
+- [x] **Day 131:** Parsing JSON and XML responses  
   📁 `/05-python-api/day-131-json-xml`
 
 - [ ] **Day 132:** Environment variables & .env (python-dotenv)  
