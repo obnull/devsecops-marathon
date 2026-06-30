@@ -67,10 +67,10 @@ Focus of this month:
 - [x] **Day 131:** Parsing JSON and XML responses  
   📁 `/05-python-api/day-131-json-xml`
 
-- [ ] **Day 132:** Environment variables & .env (python-dotenv)  
+- [x] **Day 132:** Environment variables & .env (python-dotenv)  
   📁 `/05-python-api/day-132-env-secrets`
 
-- [ ] **Day 133:** **[LAB] Web service health-checker with alerts**  
+- [x] **Day 133:** **[LAB] Web service health-checker with alerts**  
   📁 `/05-python-api/day-133-lab-healthcheck`
 
 ---

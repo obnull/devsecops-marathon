@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DAYS=(
-"day-128-os-subprocess"
-"day-129-requests"
-"day-130-api-auth"
-"day-131-json-xml"
-"day-132-env-secrets"
-"day-133-lab-healthcheck"
+"day-134-datetime"
+"day-135-regex"
+"day-136-sockets"
+"day-137-argparse"
+"day-138-threading"
+"day-139-final-port-scanner"
 )
 
 STAGE="05-python-api"
