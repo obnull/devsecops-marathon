@@ -77,10 +77,10 @@ Focus of this month:
 
 ## 🔧 Week 20: DevOps & Security Tools
 
-- [ ] **Day 134:** Working with dates and time (datetime, time)  
+- [x] **Day 134:** Working with dates and time (datetime, time)  
   📁 `/05-python-api/day-134-datetime`
 
-- [ ] **Day 135:** Regular expressions (re) for DevOps  
+- [x] **Day 135:** Regular expressions (re) for DevOps  
   📁 `/05-python-api/day-135-regex`
 
 - [ ] **Day 136:** Socket programming basics  
