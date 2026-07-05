@@ -83,7 +83,7 @@ Focus of this month:
 - [x] **Day 135:** Regular expressions (re) for DevOps  
   📁 `/05-python-api/day-135-regex`
 
-- [x] **Day 136:** Socket programming basics  
+- [ ] **Day 136:** Socket programming basics  
   📁 `/05-python-api/day-136-sockets`
 
 - [ ] **Day 137:** Command-line arguments (argparse)  
