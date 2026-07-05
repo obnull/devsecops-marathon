@@ -86,7 +86,7 @@ Focus of this month:
 - [x] **Day 136:** Socket programming basics  
   📁 `/05-python-api/day-136-sockets`
 
-- [ ] **Day 137:** Command-line arguments (argparse)  
+- [x] **Day 137:** Command-line arguments (argparse)  
   📁 `/05-python-api/day-137-argparse`
 
 - [ ] **Day 138:** Threading: parallel checks and scans  
