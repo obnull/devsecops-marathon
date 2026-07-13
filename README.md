@@ -89,7 +89,7 @@ Focus of this month:
 - [x] **Day 137:** Command-line arguments (argparse)  
   📁 `/05-python-api/day-137-argparse`
 
-- [ ] **Day 138:** Threading: parallel checks and scans  
+- [x] **Day 138:** Threading: parallel checks and scans  
   📁 `/05-python-api/day-138-threading`
 
 - [ ] **Day 139:** **[FINAL PROJECT] Multithreaded port scanner with report**  
