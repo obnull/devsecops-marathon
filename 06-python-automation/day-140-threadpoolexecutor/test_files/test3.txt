@@ -1,0 +1,3 @@
+file1.txt -> 1024 bytes
+file2.txt -> 2048 bytes
+file3.txt -> 512 bytes
