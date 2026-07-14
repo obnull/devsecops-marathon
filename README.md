@@ -12,7 +12,7 @@ Focus of this month:
 
 ## ⚡ Week 21: Concurrency & Performance
 
-* [ ] **Day 140:** ThreadPoolExecutor instead of manual threading
+* [x] **Day 140:** ThreadPoolExecutor instead of manual threading
   📁 `/06-python-automation/day-140-threadpoolexecutor`
 
 * [ ] **Day 141:** Queue — communication between threads
