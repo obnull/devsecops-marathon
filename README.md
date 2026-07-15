@@ -15,7 +15,7 @@ Focus of this month:
 * [x] **Day 140:** ThreadPoolExecutor instead of manual threading
   📁 `/06-python-automation/day-140-threadpoolexecutor`
 
-* [ ] **Day 141:** Queue — communication between threads
+* [x] **Day 141:** Queue — communication between threads
   📁 `/06-python-automation/day-141-queue`
 
 * [ ] **Day 142:** Multiprocessing — processes vs threads
