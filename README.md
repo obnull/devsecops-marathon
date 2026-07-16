@@ -1,117 +1,120 @@
-# 🐍 Month 5: Python & API
+# 🤖 Month 6: Python Automation
 
 Focus of this month:
-- Mastering Python basics: types, logic, functions
-- File operations, exception handling, logging
-- System interaction (os, subprocess) and HTTP (requests)
-- Working with REST APIs: auth, JSON/XML, env secrets
-- Building DevOps tools: health-checks, port scanners, threading
+
+* Writing production-style Python automation tools
+* Concurrent execution and task queues
+* Configuration files and filesystem automation
+* Linux monitoring with Python
+* Building reusable DevOps CLI utilities
 
 ---
 
-## 📅 Week 17: Python Basics — Types & Logic
+## ⚡ Week 21: Concurrency & Performance
 
-- [x] **Day 116:** Python setup (venv, pip, VSCode)  
-  📁 `/05-python-api/day-116-python-setup`
+* [x] **Day 140:** ThreadPoolExecutor instead of manual threading
+  📁 `/06-python-automation/day-140-threadpoolexecutor`
 
-- [x] **Day 117:** Variables, numbers, strings, f-strings  
-  📁 `/05-python-api/day-117-variables-types`
+* [x] **Day 141:** Queue — communication between threads
+  📁 `/06-python-automation/day-141-queue`
 
-- [x] **Day 118:** Lists, tuples, dicts, sets  
-  📁 `/05-python-api/day-118-collections`
+* [ ] **Day 142:** Multiprocessing — processes vs threads
+  📁 `/06-python-automation/day-142-multiprocessing`
 
-- [x] **Day 119:** Conditions (if/elif/else), boolean logic  
-  📁 `/05-python-api/day-119-conditions`
+* [ ] **Day 143:** Parallel file processing
+  📁 `/06-python-automation/day-143-file-processing`
 
-- [x] **Day 120:** Loops (for/while), comprehensions  
-  📁 `/05-python-api/day-120-loops`
+* [ ] **Day 144:** Progress bars with tqdm
+  📁 `/06-python-automation/day-144-progress`
 
-- [x] **Day 121:** **[LAB] Log parser with HTTP status counter**  
-  📁 `/05-python-api/day-121-lab-log-parser`
-
----
-
-## 📁 Week 18: Functions, Files & Error Handling
-
-- [x] **Day 122:** Functions, arguments, return, scope  
-  📁 `/05-python-api/day-122-functions`
-
-- [x] **Day 123:** Modules, imports, __name__ == "__main__"  
-  📁 `/05-python-api/day-123-modules`
-
-- [x] **Day 124:** File I/O (open, with, json, csv)  
-  📁 `/05-python-api/day-124-files`
-
-- [x] **Day 125:** Exception handling (try/except/finally)  
-  📁 `/05-python-api/day-125-exceptions`
-
-- [x] **Day 126:** Logging instead of print()  
-  📁 `/05-python-api/day-126-logging`
-
-- [x] **Day 127:** **[LAB] File permissions audit script**  
-  📁 `/05-python-api/day-127-lab-audit`
+* [ ] **Day 145:** **[LAB] Parallel log analyzer**
+  📁 `/06-python-automation/day-145-lab-log-analyzer`
 
 ---
 
-## 🌐 Week 19: System & Network Interaction
+## 📂 Week 22: Configuration & File Automation
 
-- [x] **Day 128:** os module, subprocess — running Linux commands  
-  📁 `/05-python-api/day-128-os-subprocess`
+* [ ] **Day 146:** YAML (PyYAML)
+  📁 `/06-python-automation/day-146-yaml`
 
-- [x] **Day 129:** requests module — HTTP, headers, status codes  
-  📁 `/05-python-api/day-129-requests`
+* [ ] **Day 147:** ConfigParser (.ini)
+  📁 `/06-python-automation/day-147-configparser`
 
-- [x] **Day 130:** API interaction: authentication, tokens  
-  📁 `/05-python-api/day-130-api-auth`
+* [ ] **Day 148:** pathlib instead of os.path
+  📁 `/06-python-automation/day-148-pathlib`
 
-- [x] **Day 131:** Parsing JSON and XML responses  
-  📁 `/05-python-api/day-131-json-xml`
+* [ ] **Day 149:** shutil — backup automation
+  📁 `/06-python-automation/day-149-shutil`
 
-- [x] **Day 132:** Environment variables & .env (python-dotenv)  
-  📁 `/05-python-api/day-132-env-secrets`
+* [ ] **Day 150:** hashlib — integrity verification
+  📁 `/06-python-automation/day-150-hashlib`
 
-- [x] **Day 133:** **[LAB] Web service health-checker with alerts**  
-  📁 `/05-python-api/day-133-lab-healthcheck`
+* [ ] **Day 151:** **[LAB] Backup utility with checksum verification**
+  📁 `/06-python-automation/day-151-lab-backup`
 
 ---
 
-## 🔧 Week 20: DevOps & Security Tools
+## 🖥️ Week 23: Linux Automation
 
-- [x] **Day 134:** Working with dates and time (datetime, time)  
-  📁 `/05-python-api/day-134-datetime`
+* [ ] **Day 152:** Managing systemd via subprocess
+  📁 `/06-python-automation/day-152-systemctl`
 
-- [x] **Day 135:** Regular expressions (re) for DevOps  
-  📁 `/05-python-api/day-135-regex`
+* [ ] **Day 153:** Parsing journalctl logs
+  📁 `/06-python-automation/day-153-journalctl`
 
-- [x] **Day 136:** Socket programming basics  
-  📁 `/05-python-api/day-136-sockets`
+* [ ] **Day 154:** Disk usage monitoring
+  📁 `/06-python-automation/day-154-disk-monitor`
 
-- [x] **Day 137:** Command-line arguments (argparse)  
-  📁 `/05-python-api/day-137-argparse`
+* [ ] **Day 155:** Process monitoring
+  📁 `/06-python-automation/day-155-process-monitor`
 
-- [ ] **Day 138:** Threading: parallel checks and scans  
-  📁 `/05-python-api/day-138-threading`
+* [ ] **Day 156:** Email alerts (SMTP)
+  📁 `/06-python-automation/day-156-email-alerts`
 
-- [ ] **Day 139:** **[FINAL PROJECT] Multithreaded port scanner with report**  
-  📁 `/05-python-api/day-139-final-port-scanner`
+* [ ] **Day 157:** **[LAB] Linux health monitor**
+  📁 `/06-python-automation/day-157-lab-health-monitor`
+
+---
+
+## 🚀 Week 24: DevOps CLI Tools
+
+* [ ] **Day 158:** Rich terminal output
+  📁 `/06-python-automation/day-158-rich`
+
+* [ ] **Day 159:** Advanced logging practices
+  📁 `/06-python-automation/day-159-logging`
+
+* [ ] **Day 160:** Python project architecture
+  📁 `/06-python-automation/day-160-project-layout`
+
+* [ ] **Day 161:** requirements.txt & dependency management
+  📁 `/06-python-automation/day-161-requirements`
+
+* [ ] **Day 162:** Black, isort & Ruff
+  📁 `/06-python-automation/day-162-code-quality`
+
+* [ ] **Day 163:** **[FINAL PROJECT] Infrastructure Monitoring Toolkit**
+  📁 `/06-python-automation/day-163-final-monitor`
 
 ---
 
 ## 📈 Streak Calendar
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=obnull)
 
 ---
 
 ## 📁 Repository Structure
 
-- `/01-linux-basics` — OS fundamentals, permissions, processes  
-- `/02-networking` — Network diagnostics, SSH hardening, firewalls  
-- `/03-bash` — Bash scripting, automation, log analysis, security monitoring  
-- `/04-web` — Nginx, reverse proxy, SSL/TLS, security headers  
-- `/05-python-api` — Python scripting, HTTP clients, API integration  
-- `/07-docker-expert` — Containerization and image hardening  
-- `/13-k8s-security` — Kubernetes security practices  
-- `/19-advanced-sec` — Advanced DevSecOps tools and projects  
+* `/01-linux-basics` — OS fundamentals, permissions, processes
+* `/02-networking` — Network diagnostics, SSH hardening, firewalls
+* `/03-bash` — Bash scripting, automation, log analysis, security monitoring
+* `/04-web` — Nginx, reverse proxy, SSL/TLS, security headers
+* `/05-python-api` — Python scripting, HTTP clients, API integration
+* `/06-python-automation` — Automation tools, monitoring, Linux utilities
+* `/07-docker-expert` — Containerization and image hardening
+* `/13-k8s-security` — Kubernetes security practices
+* `/19-advanced-sec` — Advanced DevSecOps tools and projects
 
 ---
 
@@ -119,8 +122,9 @@ Focus of this month:
 
 Historical snapshots of monthly progress:
 
-* Month 01 — Linux Basics (Completed ✅)  
-* Month 02 — Networking & Hardening (Completed ✅)  
-* Month 03 — Bash Scripting & Automation (Completed ✅)  
-* Month 04 — Web Servers, SSL & Security Headers (Completed ✅)  
-* Month 05 — Python & API (Active 🚀)
+* Month 01 — Linux Basics (Completed ✅)
+* Month 02 — Networking & Hardening (Completed ✅)
+* Month 03 — Bash Scripting & Automation (Completed ✅)
+* Month 04 — Web Servers, SSL & Security Headers (Completed ✅)
+* Month 05 — Python & API (Completed ✅)
+* Month 06 — Python Automation (Active 🚀)

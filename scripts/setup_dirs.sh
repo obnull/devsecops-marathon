@@ -1,15 +1,15 @@
 #!/bin/bash
 
 DAYS=(
-"day-134-datetime"
-"day-135-regex"
-"day-136-sockets"
-"day-137-argparse"
-"day-138-threading"
-"day-139-final-port-scanner"
+"day-140-threadpoolexecutor"
+"day-141-queue"
+"day-142-multiprocessing"
+"day-143-file-processing"
+"day-144-progress"
+"day-145-lab-log-analyzer"
 )
 
-STAGE="05-python-api"
+STAGE="06-python-automation"
 
 mkdir -p $STAGE
 
