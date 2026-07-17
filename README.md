@@ -18,7 +18,7 @@ Focus of this month:
 * [x] **Day 141:** Queue — communication between threads
   📁 `/06-python-automation/day-141-queue`
 
-* [ ] **Day 142:** Multiprocessing — processes vs threads
+* [x] **Day 142:** Multiprocessing — processes vs threads
   📁 `/06-python-automation/day-142-multiprocessing`
 
 * [ ] **Day 143:** Parallel file processing
